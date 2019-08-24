@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: MASc candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biomedical Engineering
+  - course: BS in Molecular Biology
     institution: University of Toronto
-    year: 2014
-  - course: BASc in Engineering Science
-    institution: University of Toronto
-    year: 2008
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,13 +41,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/leochou0814
+  link: []
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=SmitgU0AAAAJ&hl=en
+  link: []
 - icon: github
   icon_pack: fab
-  link: https://github.com/lytchou
+  link: []
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -58,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "leo.chou@utoronto.ca"
+email: "stuti.joshi@mail.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -66,4 +63,4 @@ user_groups:
 - Grad Students
 ---
 
-Leo Chou is an assistant professor in the Institute of Biomaterials and Biomedical Engineering at University of Toronto, and an investigator supported by the Medicine by Design initiative. His research interests include DNA nanotechnology, molecular engineering, and synthetic biology. His lab is developing artificial, self-assembling molecular devices for biomedical applications, including for biomarker discovery, diagnostics, and therapeutics.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
