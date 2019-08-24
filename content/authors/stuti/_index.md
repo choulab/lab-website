@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Leo Chou
+name: Stuti Joshi
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Stuti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor | Medicine by Design Investigator
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: "leo.chou@utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Grad Students
 ---
 
 Leo Chou is an assistant professor in the Institute of Biomaterials and Biomedical Engineering at University of Toronto, and an investigator supported by the Medicine by Design initiative. His research interests include DNA nanotechnology, molecular engineering, and synthetic biology. His lab is developing artificial, self-assembling molecular devices for biomedical applications, including for biomarker discovery, diagnostics, and therapeutics.
