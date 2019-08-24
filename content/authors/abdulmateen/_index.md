@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Stuti Joshi
+name: Abdulmateen Aderinto
 
 # Username (this should match the folder name)
 authors:
-- stuti
+- abdulmateen
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-  - course: BS in Molecular Biology
-    institution: University of Toronto
+  - course: BS in Biochemistry
+    institution: University of McMaster
     year: 2019
 
 # Social/Academic Networking
@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "stuti.joshi@mail.utoronto.ca"
+email: "abdulmateen.aderinto@mail.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
