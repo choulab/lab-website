@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor | Medicine by Design Investigator
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: University of Toronto
-  url: ""
+  url: "https://www.ibbme.utoronto.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
