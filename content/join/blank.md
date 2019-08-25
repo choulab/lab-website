@@ -51,12 +51,12 @@ We are always interested in highly motivated and creative people with a strong b
 
 ## Postdocs
 
-If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). We are always interested in motivated candidates. If you send a generic copy-paste email, we will happily ignore your email :-)<br><br>
+If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). It would be great if you can suggest potential topics you would be interested to work on. You're not bound by this but it will provide a starting point of conversation. If you send a generic copy-paste email, we will happily ignore your email :-)<br><br>
 
 ## Graduate students
 
-If you are interested in joining the lab, please send Leo an email or come by his office (Rosebrugh Building Room 411). Also, have a look at the University of Toronto IBBME graduate programme for information about the application process.<br><br>
+If you are interested in joining the lab, please send Leo an email explaining your interests.  Please also include digital copies of your up-to-date transcript and CV. Also, have a look at the University of Toronto [IBBME graduate program](https://ibbme.utoronto.ca/prospective-students/doctor-of-philosophy-phd/) to familiarize yourself about the application process.<br><br>
 
 ## Undergraduate students
 
-We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)
+We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/) projects. Our lab will also mentor [BIOMOD](http://biomod.net/) projects, which is an annual, international DNA nanotechnology design competition. If you are interested, send Leo an email with a brief description of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)
