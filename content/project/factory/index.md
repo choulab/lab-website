@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-We use DNA origami to create a spatially programmable compartment in which we installed a dual enzyme cascade for integrated RNA synthesis and editing
+We create a spatially programmable compartment made of DNA, in which we installed two enzymes for coordinated RNA manufacturing
