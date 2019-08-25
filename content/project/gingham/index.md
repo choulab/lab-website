@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Billboard"
+title: "Gingham"
 summary: ""
 authors: []
 tags: [Active]
 categories: []
-date: 2019-08-25T16:53:25-04:00
+date: 2019-08-25T17:47:31-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-We are engineering DNA nanostructures to manipulate and re-wire cell receptor signaling
+We are creating moleculars computers that can diagnose diseases without the need for instrumentation
