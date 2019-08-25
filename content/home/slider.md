@@ -53,8 +53,8 @@ height = ""
   cta_icon = "search"
 
 [[item]]
-  title = "Multi-disciplinarity"
-  content = "Our research lies at the interface of chemistry, biology, engineering, and computer science"
+  title = "Multi-disciplinary team"
+  content = "Our people work at the interface of chemistry, biology, engineering, and computer science"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
