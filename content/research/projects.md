@@ -26,24 +26,24 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Origami"
-    tag = "Origami"
+    name = "Active"
+    tag = "Active"
     
   [[content.filter_button]]
-    name = "Software"
-    tag = "software"
+    name = "Past"
+    tag = "Past"
 
-  [[content.filter_button]]
-    name = "Workshop"
-    tag = "workshop"
+#  [[content.filter_button]]
+#    name = "Workshop"
+#    tag = "workshop"
   
-  [[content.filter_button]]
-    name = "Course"
-    tag = "course"
+#  [[content.filter_button]]
+#    name = "Course"
+#    tag = "course"
     
-  [[content.filter_button]]
-    name = "Book"
-    tag = "book"
+#  [[content.filter_button]]
+#    name = "Book"
+#    tag = "book"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -83,5 +83,5 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "mini"
 +++
