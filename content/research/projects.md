@@ -80,7 +80,9 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = ".blue-square-container {
+  text-align: center;
+}"
  
  # CSS class.
  css_class = "mini"
