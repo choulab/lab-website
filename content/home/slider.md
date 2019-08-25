@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Join Us!"
-  content = "I am center aligned :smile:"
+  title = "We are hiring"
+  content = "Interested in tinkering with DNA and proteins to build artificial molecular devices? Curious about how synthetic biology can create new diagnostics and therapeutics? Want to work at the interface of chemistry, biology, engineering, and computer science? Get in touch!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,7 +29,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
+  cta_label = "Join Us"
   cta_url = "https://sourcethemes.com/academic/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
@@ -39,9 +39,9 @@ height = ""
   content = "A dual enzymatic cascade spatially organized within a multi-component DNA origami chassis for integrated RNA manufacturing. This is a synthetic biology project aimed at pushing the boundaries of design complexity (Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/factory-1400x500.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "DNA-powered programmable gene circuits"
@@ -49,6 +49,24 @@ height = ""
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/T7GRN-1400x500.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/laboratory-1400x500.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/cityscape-1400x500.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
