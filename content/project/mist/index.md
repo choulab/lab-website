@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-We are using DNA-powered synthetic gene networks to create an in vitro operating system for molecular information storage
+We are using DNA-powered synthetic gene networks to create an in vitro operating system for molecular computing
