@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor<br>Medicine by Design Investigator
 
 # Organizations/Affiliations
 organizations:
