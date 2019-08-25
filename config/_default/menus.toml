@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Join"
-  url = "#contact"
+  url = "/join"
   weight = 60
 
 # [[main]]
