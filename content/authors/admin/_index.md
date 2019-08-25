@@ -67,7 +67,7 @@ email: "leo.chou@utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+- PI
 ---
 
 Leo Chou is an assistant professor in the Institute of Biomaterials and Biomedical Engineering at University of Toronto, and one of the investigators at Medicine by Design, a Canada First Research Excellence Fund (CFREF)-supported initiative. His research interests include DNA nanotechnology, molecular engineering, and synthetic biology. His lab is developing artificial, self-assembling molecular devices for biomedical applications, including for biomarker discovery, diagnostics, and therapeutics.
