@@ -79,5 +79,4 @@ height = "500px"
   cta_url = "https://choulab.netlify.com/join"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
-
 +++
