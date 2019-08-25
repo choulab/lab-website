@@ -80,10 +80,10 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ".blue-square-container {text-align: center;}"
+ css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "mini"
 +++
 
 Below you will find a list of on-going and past projects. The Chou lab develops molecular technologies for biological applications. These devices are composed of engineered DNA and protein molecules that are programmed to self-assemble according to user-defined structures and logics in order to carry out specific tasks.
