@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "We are hiring"
-  content = "Interested in tinkering with DNA and proteins to build artificial molecular devices? Curious about how synthetic biology can create new diagnostics and therapeutics? Want to work at the interface of chemistry, biology, engineering, and computer science? Get in touch!"
+  content = "Want to work at the interface of chemistry, biology, engineering, and computer science? Get in touch!"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -43,6 +43,11 @@ height = ""
   overlay_img = "headers/factory-1400x500.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
+  cta_label = "Learn More"
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "search"
+
 [[item]]
   title = "DNA-powered programmable gene circuits"
   content = "A cell-free gene circuit regulated using entirely nucleic acid components for highly scalable and programmable gene expression. We are interested in using this new tool to dissect biomolecular interactions and create portable molecular computers!"
@@ -51,6 +56,11 @@ height = ""
   #overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/T7GRN-1400x500.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
+  cta_label = "Learn More"
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "search"
 
 [[item]]
   title = ""
