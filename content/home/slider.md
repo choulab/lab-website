@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Where we are"
-  content = "Our lab is located at the University of Toronto, in the heart of downtown Toronto, within walking distance of the University Hospital Network and the MaRS innovation centre"
+  content = "Our lab is located at the University of Toronto, in the heart of the city, within walking distance to the University Hospital Network and the MaRS innovation centre"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
