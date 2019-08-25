@@ -46,12 +46,11 @@ subtitle = ""
  css_class = ""
 +++
 
-### September 2019
-- Welcome Stuti, Travis, Abdulmateen, and Ryan (aka the S.T.A.R. students) to the lab!
 
-### August 2019
-
-- Goodbye Matthew. Hope you had a fulfilling summer!
+- 19.09.01: Goodbye Matthew. Hope you had a fulfilling summer!
+- 19.08.26: Welcome Stuti, Travis, Abdulmateen, and Ryan (aka the S.T.A.R. students) to the lab!
+- 19.05.14: Chou lab is 1 of 9 investigators awarded the Medicine by Design - New Ideas award. Read more about it [here](https://mbd.utoronto.ca/news/new-ideas-2019/). We will be working with the Treanor team to build DNA devices to elucidate B cell signaling for applications in vaccine and autoimmune diseases
+- 19.03.28: Chou lab is 1 of 10 at the University of Toronto and 1 of 158 labs awarded the inaugural New Frontiers Research Fund - Exploration grant from the Tri-Council. We will be using the fund to build molecular computers for portable diagnostics. Thanks Canada!
 
 
 ### July 2019
