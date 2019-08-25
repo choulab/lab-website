@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
-title = "Who we are"
+title = ""
 subtitle = ""
 
 [design]
@@ -47,8 +47,5 @@ subtitle = ""
  css_class = ""
 +++
 
-The long-term goal of the Chou Lab is to inform and enable the design of artificial biological systems, e.g. a re-designed cell. The questions that are central to our exploration include: (1) how do biomolecular networks self-organize to encode and decode biochemical information? (2) what is the intrinsic functional plasticity of cellular machineries, and (3) can we develop synthetic nanotechnologies that leverage these principles to re-engineer cellular signaling systems and control cell behaviour?
-
-Our lab applies a synthetic biology approach to answer these questions. Through a fusion of chemistry, biology, and molecular engineering, we develop molecular technologies that will enable us to record, edit, and re-wire the molecular interactions within biological systems with unprecedented speed, accuracy, and parallelism. By developing and applying these tools, we aim to elucidate how biomolecular machines mediate cellular processes, and in the long-run generate synthetic analogs that rival in complexity for detecting and treating diseases.
-
-We aspire to be a multidisciplinary group, and welcome applicants from all fields of biology, chemistry, physics, engineering and computer science. Researchers in the lab acquire a broad range of skills, including DNA nanotechnology, protein engineering, bio-imaging, chemistry, molecular biology, as well as computational design.
+{{< figure library="true" src="mbd-logo.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="ibbme-logo.jpg" title="A caption" lightbox="true" >}}
