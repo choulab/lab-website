@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Join Us"
-  cta_url = "https://choulab.netlify.com/"
+  cta_url = "https://choulab.netlify.com/join"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
