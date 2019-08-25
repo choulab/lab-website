@@ -47,16 +47,16 @@ subtitle = ""
  css_class = ""
 +++
 
-We are always interested in highly motivated and creative people with a strong background in molecular biology, genetics, biochemistry, or computational biology. We strive to create a generous, collaborative, and supportive environment for research. We prefer sharing, communication, and collaboration over secrecy and competition. We are doing research for the fun of it.
+We are always interested in highly motivated and creative people with a strong background in molecular biology, genetics, biochemistry, or computational biology. We strive to create a generous, collaborative, and supportive environment for research. We prefer sharing, communication, and collaboration over secrecy and competition. We are doing research for the fun of it.<br>
 
 ## Postdocs
 
-If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). We are always interested in motivated candidates. If you send a generic copy-paste email, we will happily ignore your email :-)
+If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). We are always interested in motivated candidates. If you send a generic copy-paste email, we will happily ignore your email :-)<br>
 
 ## Graduate students
 
-If you are interested in joining the lab, please send Leo an email or come by his office (Rosebrugh Building Room 411). Also, have a look at the University of Toronto IBBME graduate programme for information about the application process.
+If you are interested in joining the lab, please send Leo an email or come by his office (Rosebrugh Building Room 411). Also, have a look at the University of Toronto IBBME graduate programme for information about the application process.<br>
 
 ## Undergraduate students
 
-We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)
+We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)<br>
