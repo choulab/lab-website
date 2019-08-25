@@ -191,13 +191,6 @@ div.alert.alert-warning {
   font-size: 0.8rem;
 }
 
-.btn {
-  font-family: Arapey;
-  text-transform: lowercase;
-  font-style: normal;
-  border-radius: 0px;
-}
-
 .btn-toolbar .btn:first-child {
   border-radius: 0px;
 }
