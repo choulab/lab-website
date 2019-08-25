@@ -179,29 +179,6 @@ div.alert.alert-warning {
   padding: 23px 10px 21px 10px;
 }
 
-/* buttons */
-
-.btn.btn-sm, .btn-group-sm > .btn {
-  border-radius: 0px; /*undo rounded corners*/
-  font-size: 0.8rem;
-}
-
-.btn.btn-outline-primary.my-1.mr-1 {
-  border-radius: 0px; /*undo rounded corners*/
-  font-size: 0.8rem;
-}
-
-.btn-toolbar .btn:first-child {
-  border-radius: 0px;
-}
-
-.btn-toolbar .btn:last-child {
-  border-radius: 0px;
-}
-
-.btn-toolbar {
-  justify-content: center;
-}
 
 /* section headers */
 
