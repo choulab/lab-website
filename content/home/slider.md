@@ -16,15 +16,6 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Where we are"
-  content = "Our lab is located in downtown Toronto, Canada"
-  align = "left"
-
-  #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/cityscape-1400x500.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "DNA nanotechnology"
   content = "We program DNA to create nanoscale devices and use these devices to probe and manipulate biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
@@ -60,6 +51,15 @@ height = ""
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/laboratory-1400x500.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Where we are"
+  content = "Our lab is located in the vibrant downtown core of Toronto,<br>within walking distance to University Health Network hospitals and the MARS innovation centre"
+  align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/cityscape-1400x500.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "We are hiring"
