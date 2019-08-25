@@ -4,7 +4,7 @@ name: Leo Chou
 
 # Username (this should match the folder name)
 authors:
-- admin
+- leo
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ organizations:
   url: "https://www.utoronto.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - DNA nanotechnology
