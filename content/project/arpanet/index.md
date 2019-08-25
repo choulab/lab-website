@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Gene Network"
+title: "arpanet"
 summary: ""
 authors: []
 tags: [Past]
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+We design DNA sequences to serve as artificial transcription factors to make in vitro gene regulatory networks scalable and programmable
