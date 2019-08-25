@@ -83,5 +83,5 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = "mini"
+ css_class = ""
 +++
