@@ -63,7 +63,7 @@ phone = ""
 address = "Rosebrugh Building Room 407, 164 College Street. Toronto ON, Canada"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Fridays 15:30 to 17:00"""
+office_hours = """Email for appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
