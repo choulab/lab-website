@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -79,4 +79,5 @@ height = ""
   cta_url = "https://choulab.netlify.com/join"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
+
 +++
