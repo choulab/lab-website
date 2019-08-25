@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "leo 'dot' chou 'at' utoronto 'dot' ca"
 phone = ""
 address = "Rosebrugh Building Room 407, 164 College Street. Toronto ON, Canada"
 
