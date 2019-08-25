@@ -25,15 +25,6 @@ height = ""
   overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Multi-disciplinarity"
-  content = "Our research lies at the interface of chemistry, biology, engineering, and computer science"
-  align = "left"
-
-  #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/laboratory-1400x500.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "DNA nanotechnology"
   content = "We program DNA to create nanoscale devices and using these devices to probe and manipulate biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
@@ -48,7 +39,7 @@ height = ""
   cta_icon = "search"
 
 [[item]]
-  title = "Programmable synthetic gene circuits"
+  title = "Programmable gene circuits"
   content = "Our DNA-powered gene networks are being used to build portable molecular computers and operating systems"
   align = "left"
 
@@ -60,6 +51,15 @@ height = ""
   cta_url = "https://choulab.netlify.com/"
   cta_icon_pack = "fas"
   cta_icon = "search"
+
+[[item]]
+  title = "Multi-disciplinarity"
+  content = "Our research lies at the interface of chemistry, biology, engineering, and computer science"
+  align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/laboratory-1400x500.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "We are hiring"
