@@ -46,5 +46,12 @@ subtitle = ""
  css_class = ""
 +++
 
+### September 2019
+- Welcome Stuti, Travis, Abdulmateen, and Ryan (aka the S.T.A.R. students) to the lab!
+
+### August 2019
 
 - Goodbye Matthew. Hope you had a fulfilling summer!
+
+
+### July 2019
