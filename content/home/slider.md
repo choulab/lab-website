@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Biosynthetic RNA nanofactory"
-  content = "A dual enzymatic cascade spatially organized within a multi-component DNA origami chassis for integrated RNA manufacturing. This is a synthetic biology project aimed at pushing the boundaries of design complexity (Image courtesy of Dr. Rasmus Sorensen)"
+  content = "A dual enzymatic cascade spatially organized within a multi-component DNA origami chassis for integrated RNA manufacturing. This is a synthetic biology project aimed at pushing the boundaries of design complexity<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
