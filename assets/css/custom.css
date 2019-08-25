@@ -34,7 +34,7 @@ a:hover {
 }
 
 .navbar-nav {
-  border-bottom: 0px solid #E13D3D;
+  border-bottom: 0px solid #2962ff;
 }
 
 .navbar-brand {
@@ -141,21 +141,21 @@ code {
 div.alert-note > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #e13d3d;
+  color: #2962ff;
   content: "\f0a4";
 }
 
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #e13d3d;
+  color: #2962ff;
   content: "\f1e2";
 }
 
 .alert-note {
   color: #333;
   background-color: #fff;
-  border-top: 2px solid #e13d3d;
+  border-top: 2px solid #2962ff;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -171,7 +171,7 @@ div.alert > div {
 div.alert.alert-warning {
   color: #d03b39;
   background-color: #fdf4f4;
-  border-top: 2px solid #e13d3d;
+  border-top: 2px solid #2962ff;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -195,13 +195,13 @@ div.universal-wrapper.pt-3 h1 {
 	margin-left: 10rem;
 	margin-right: 10rem;
 	padding-bottom: 68px;
-  border-bottom: 0px solid #e13d3d;
+  border-bottom: 0px solid #2962ff;
 }
 
 hr {
   border: 0;
   height: 1px;
-  background: #e13d3d;
+  background: #2962ff;
   background-image: none;
 }
 
@@ -235,17 +235,17 @@ iframe {
 /* pagination buttons */
 
 .page-link {
-	color: #e13d3d;
+	color: #2962ff;
 	background-color: #fbf9f4;
-	border: 0px solid #e13d3d;
+	border: 0px solid #2962ff;
   border-radius: 0px; /*undo rounded corners*/
 
 }
 
 .page-link:hover {
 	color: #fff;
-	background-color: #e13d3d;
-	border-color: #e13d3d;
+	background-color: #2962ff;
+	border-color: #2962ff;
 }
 
 .page-item:first-child .page-link {
@@ -261,11 +261,11 @@ iframe {
 /* dark fixes */
 
 .dark .pagination li > a, .pagination li > span {
-	border: 1px solid #e13d3d;
+	border: 1px solid #2962ff;
 }
 
 .dark .page-link:hover {
-	background-color: #e13d3d;
+	background-color: #2962ff;
 }
 
 .dark a:active, 
