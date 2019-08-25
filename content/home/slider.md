@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Where we are"
-  content = "our lab is located in the beautiful city of Toronto"
+  content = "Our lab is located in the heart of the beautiful city of Toronto"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
@@ -26,7 +26,7 @@ height = ""
 
 [[item]]
   title = "Multi-disciplinarity"
-  content = "we work at the interface of chemistry, biology, engineering, and computer science"
+  content = "Our research lies at the interface of chemistry, biology, engineering, and computer science"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
@@ -34,8 +34,8 @@ height = ""
   #overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Biosynthetic RNA nanofactory"
-  content = "we programmed DNA to create a nanoscale compartment and spatially organized enzymes within its lumen for integrated RNA manufacturing. This synthetic biology project is aimed at pushing the boundaries of engineering complexity<br>(Image courtesy of Dr. Rasmus Sorensen)"
+  title = "DNA nanotechnology"
+  content = "We are programming DNA to create nanoscale devices and using these devices to probe and manipulate biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
@@ -48,8 +48,8 @@ height = ""
   cta_icon = "search"
 
 [[item]]
-  title = "DNA-powered programmable gene circuits"
-  content = "we used nucleic acid components to control the logics of in vitro gene expression networks. This can be used to build portable molecular computers and operating systems"
+  title = "DNA-powered synthetic gene circuits"
+  content = "We are using DNA to build gene networks that can be used as portable molecular computers and operating systems"
   align = "left"
 
   #overlay_color = "#333"  # An HTML color value.
@@ -63,7 +63,7 @@ height = ""
 
 [[item]]
   title = "We are hiring"
-  content = "we are always looking for talented and passionate people to join us"
+  content = "are you curious, driven, passionate, and innovative?"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
