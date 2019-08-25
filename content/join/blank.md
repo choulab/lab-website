@@ -49,14 +49,14 @@ subtitle = ""
 
 We are always interested in highly motivated and creative people with a strong background in molecular biology, genetics, biochemistry, or computational biology. We strive to create a generous, collaborative, and supportive environment for research. We prefer sharing, communication, and collaboration over secrecy and competition. We are doing research for the fun of it.
 
-##Postdocs
+## Postdocs
 
 If you are interested in our research and you have a recent PhD degree in molecular biology, proteomics/genomics, or cancer biology, please send an email to Mikko explaining your research interests (also include your CV and contact details of three references). We are always interested in motivated candidates. However, if you send a copy-paste email that you have sent to 200 other labs, we will very happily ignore your email!
 
-##Graduate students
+## Graduate students
 
 If you are interested in joining the lab or doing a rotation project, please send Mikko an email or come by his office (CCBR 806). Also, have a look at the University of Toronto Department of Molecular Genetics graduate programme for information about the application process.
 
-##Undergraduate students
+## Undergraduate students
 
 We may have openings for undergraduate students. If you are interested, please send Mikko an email with a short explanation of your interests. Please attach your transcript and CV in the email. Hint: you are much more likely to get a reply if you don’t simply copy-paste your email!
