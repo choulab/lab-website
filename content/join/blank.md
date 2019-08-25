@@ -47,7 +47,7 @@ subtitle = ""
  css_class = "mini"
 +++
 
-We are always interested in highly motivated and creative people with a strong background in molecular biology, genetics, biochemistry, or computational biology. We strive to create a generous, collaborative, and supportive environment for research. We prefer sharing, communication, and collaboration over secrecy and competition. We are doing research for the fun of it.<br><br>
+We are always interested in highly creative and driven people with a strong background in chemistry, molecular biology, biochemistry, engineering, or computational biology. We strive to create a collaborative and supportive environment for innovation. We prefer sharing, communication, and collaboration. Read below for our mentorship policy.<br><br>
 
 ## Postdocs
 
@@ -59,4 +59,10 @@ If you are interested in joining the lab, please send Leo an email explaining yo
 
 ## Undergraduate students
 
-We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/) projects. Our lab will also mentor [BIOMOD](http://biomod.net/) projects, which is an annual, international DNA nanotechnology design competition. If you are interested, send Leo an email with a brief description of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)
+We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/) projects. Our lab will also mentor [BIOMOD](http://biomod.net/) projects, which is an annual, international DNA nanotechnology design competition. If you are interested, send Leo an email with a brief description of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)<br><br>
+
+## Mentorship policy
+
+Science is hard, but it should also be fun. You could be doing many different things in life, and you chose science, so we are here to make sure that that choice is as rewarding as can be (and it will be!). To do that, we work together to create a lab environment that is supportive, collaborative, and dynamic, and ensure that all of its team members are driven, curious, passionate, and participatory. 
+
+For students just starting out, we take time to carve out starter projects so they don't feel overwhelmed. We are keen to support training and participation in international competitions. We empower students to have ownership over these projects, while developing strutured training plans so that there is systematic learning. At the same time, we keep communication channels open so there is plenty of room for feedback. For more experienced reserachers, we grant the freedom to explore, chart new territories, and take creative risks while providing guidance and career development opportunities. In addition to scientific excellence, our goal is to make every one of our team members become the best version of themselves through this training experience.
