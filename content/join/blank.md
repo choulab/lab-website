@@ -44,7 +44,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "mini"
 +++
 
 We are always interested in highly motivated and creative people with a strong background in molecular biology, genetics, biochemistry, or computational biology. We strive to create a generous, collaborative, and supportive environment for research. We prefer sharing, communication, and collaboration over secrecy and competition. We are doing research for the fun of it.<br><br>
