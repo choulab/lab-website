@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Join Us"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "https://choulab.netlify.com/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
-  cta_url = ""
+  cta_url = "https://choulab.netlify.com/"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
@@ -58,7 +58,7 @@ height = ""
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
-  cta_url = ""
+  cta_url = "https://choulab.netlify.com/"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
