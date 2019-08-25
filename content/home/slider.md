@@ -16,15 +16,15 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Join Us"
+  title = "Join Us!"
   content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/UofTEng-1400x500.png"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -35,8 +35,8 @@ height = ""
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Biosynthetic RNA nanofactory"
+  content = "A dual enzymatic cascade spatially organized within a multi-component DNA origami chassis for integrated RNA manufacturing. This is a synthetic biology project aimed at pushing the boundaries of design complexity (Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,9 +44,9 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = "DNA-powered programmable gene circuits"
+  content = "A cell-free gene circuit regulated using entirely nucleic acid components for highly scalable and programmable gene expression. We are interested in using this new tool to dissect biomolecular interactions and create portable molecular computers!"
+  align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
