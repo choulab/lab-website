@@ -47,5 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
-#{{< figure library="true" src="mbd-logo.png" title="" lightbox="true" >}}
 {{< figure library="true" src="ibbme-logo.png" title="" lightbox="true" >}}
