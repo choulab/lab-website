@@ -18,13 +18,13 @@ height = ""
 [[item]]
   title = "We are hiring"
   content = "Interested in tinkering with DNA and proteins to build artificial molecular devices? Curious about how synthetic biology can create new diagnostics and therapeutics? Want to work at the interface of chemistry, biology, engineering, and computer science? Get in touch!"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/UofTEng-1400x500.png"  # Image path relative to your `static/img/` folder.
-  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,7 +41,7 @@ height = ""
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/factory-1400x500.png"  # Image path relative to your `static/img/` folder.
-  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  #overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "DNA-powered programmable gene circuits"
@@ -50,7 +50,7 @@ height = ""
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/T7GRN-1400x500.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
