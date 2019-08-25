@@ -59,4 +59,4 @@ If you are interested in joining the lab, please send Leo an email or come by hi
 
 ## Undergraduate students
 
-We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)<br><br>
+We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)
