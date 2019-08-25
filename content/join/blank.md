@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "500px", "20px", "500px"]
+  padding = ["20px", "200px", "20px", "200px"]
 
 [advanced]
  # Custom CSS. 
@@ -51,12 +51,12 @@ We are always interested in highly motivated and creative people with a strong b
 
 ## Postdocs
 
-If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). We are always interested in motivated candidates. If you send a generic copy-paste email, we will happily ignore your email :-)<br>
+If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). We are always interested in motivated candidates. If you send a generic copy-paste email, we will happily ignore your email :-)<br><br>
 
 ## Graduate students
 
-If you are interested in joining the lab, please send Leo an email or come by his office (Rosebrugh Building Room 411). Also, have a look at the University of Toronto IBBME graduate programme for information about the application process.<br>
+If you are interested in joining the lab, please send Leo an email or come by his office (Rosebrugh Building Room 411). Also, have a look at the University of Toronto IBBME graduate programme for information about the application process.<br><br>
 
 ## Undergraduate students
 
-We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)<br>
+We have openings for undergraduate students interested in USRA and BIOMOD projects. If you are interested, please send Leo an email with a short explanation of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)<br><br>
