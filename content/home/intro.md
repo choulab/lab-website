@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Who we are"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -47,26 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+The long-term goal of the Chou Lab is to inform and enable the design of artificial biological systems, e.g. a re-designed cell. The questions that are central to our exploration include: (1) how do biomolecular networks self-organize to encode and decode biochemical information? (2) what is the intrinsic functional plasticity of cellular machineries, and (3) can we develop synthetic nanotechnologies that leverage these principles to re-engineer cellular signaling systems and control cell behaviour?
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+Our lab applies a synthetic biology approach to answer these questions. Through a fusion of chemistry, biology, and molecular engineering, we develop molecular technologies that will enable us to record, edit, and re-wire the molecular interactions within biological systems with unprecedented speed, accuracy, and parallelism. By developing and applying these tools, we aim to elucidate how biomolecular machines mediate cellular processes, and in the long-run generate synthetic analogs that rival in complexity for detecting and treating diseases.
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
-
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+We aspire to be a multidisciplinary group, and welcome applicants from all fields of biology, chemistry, physics, engineering and computer science. Researchers in the lab acquire a broad range of skills, including DNA nanotechnology, protein engineering, bio-imaging, chemistry, molecular biology, as well as computational design.
