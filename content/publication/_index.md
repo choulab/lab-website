@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-190825 - Testing 1 2 3 Testing 
+A complete, up-to-date list of publications can be found in [google scholars](https://scholar.google.com/citations?user=SmitgU0AAAAJ&hl=en)
