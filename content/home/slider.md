@@ -48,9 +48,9 @@ height = ""
   content = "A cell-free gene circuit regulated using entirely nucleic acid components for highly scalable and programmable gene expression. We are interested in using this new tool to dissect biomolecular interactions and create portable molecular computers!"
   align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  #overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/T7GRN-1400x500.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 1  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
