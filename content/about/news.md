@@ -55,6 +55,7 @@ subtitle = ""
 - Leo visits McMaster University to give a BIMR symposium lecture. Thanks to the Soleymani lab for hosting
 - Leo visits Finland to attend the Nantech 2019 conference
 - The Chou lab is [awarded](https://mbd.utoronto.ca/news/new-ideas-2019/) the 2019 MbD New Ideas award (1 of 9 labs). We will be working with the Treanor lab to build DNA devices to elucidate B cell signaling for vaccine and regenerative medicine applications
+- Welcome Matthew Cao and Janice Da Silva to the lab!
 
 
 ### March 2019
@@ -62,4 +63,6 @@ subtitle = ""
 - Leo discusses the integration of DNA nanotech with synthetic biology at the MbD synbio discussion group
 
 
+### January 2019
+- Leo joins the IBBME Faculty!
 
