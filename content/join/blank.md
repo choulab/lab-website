@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-We are always interested in highly creative and driven people with a strong background in chemistry, molecular biology, biochemistry, engineering, or computational biology. We strive to create a collaborative and supportive environment for innovation. We prefer sharing, communication, and collaboration. Read below for our mentorship policy.<br><br>
+We are always looking for highly creative and driven people with a strong background in chemistry, molecular biology, biochemistry, engineering, or computational biology. We strive to create a collaborative and supportive environment for innovation. We prefer sharing, communication, and collaboration. Read below for our mentorship policy.<br><br>
 
 ## Postdocs
 
