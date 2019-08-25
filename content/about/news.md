@@ -10,13 +10,9 @@ weight = 20  # Order that this section will appear.
 title = "News"
 subtitle = ""
   
-#[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-#  view = 1
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
   
 [design.background]
   # Apply a background color, gradient, or image.
