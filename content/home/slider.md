@@ -63,7 +63,7 @@ height = ""
 
 [[item]]
   title = "We are hiring"
-  content = "are you curious, driven, passionate, and innovative?"
+  content = "Are you curious, driven, passionate, and innovative?"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
