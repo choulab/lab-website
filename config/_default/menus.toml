@@ -17,6 +17,19 @@
   name = "People"
   url = "/about#people"
   weight = 30
+  identifier = "People"
+
+[[main]]
+  name = "PI"
+  url = "/authors/leo"
+  weight = 10
+  parent = "People"
+
+[[main]]
+  name = "members"
+  url = "/about/#people"
+  weight = 20
+  parent = "People"
 
 [[main]]
   name = "Research"
