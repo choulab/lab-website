@@ -59,7 +59,7 @@ If you are interested in joining the lab, please send Leo an email explaining yo
 
 ## Undergraduate students
 
-We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/)-funded projects. Our lab will also mentor student teams wishing to participate in [BIOMOD](http://biomod.net/), an annual, international DNA nanotechnology design competition. If you are interested, send Leo an email with a brief description of your interests. Please attach your transcript and CV in the email. If you send a generic copy-paste email, we will probably ignore your email :-)<br><br>
+We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/)-funded projects. Our lab will also mentor student teams wishing to participate in [BIOMOD](http://biomod.net/), an annual, international DNA nanotechnology design competition. If you are interested, send Leo an email with a brief description of your interests. Please attach your transcript and CV in the email.<br><br>
 
 ## <a name="mentorship"></a>Mentorship policy
 
