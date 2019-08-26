@@ -33,6 +33,10 @@ subtitle = ""
     name = "Past"
     tag = "Past"
 
+  [[content.filter_button]]
+    name = "computing"
+    tag = "computing"
+
 #  [[content.filter_button]]
 #    name = "Workshop"
 #    tag = "workshop"
