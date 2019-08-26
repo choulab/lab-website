@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-We used a spatially programmable compartment made of DNA to organize an enzymatic cascade for coordinated RNA manufacturing
+We use a spatially programmable capsule made of DNA to organize an enzymatic cascade for coordinated RNA manufacturing
