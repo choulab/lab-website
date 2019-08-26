@@ -4,7 +4,7 @@ name: Matthew Cao
 
 # Username (this should match the folder name)
 authors:
-- travis
+- matthew
 
 # Is this the primary user of the site?
 superuser: false
