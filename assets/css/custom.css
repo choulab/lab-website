@@ -261,11 +261,11 @@ iframe {
 /* dark fixes */
 
 .dark .pagination li > a, .pagination li > span {
-	border: 1px solid #2998ff;
+	border: 1px solid #29bcff;
 }
 
 .dark .page-link:hover {
-	background-color: #2998ff;
+	background-color: #29bcff;
 }
 
 .dark a:active, 
