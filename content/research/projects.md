@@ -86,4 +86,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Below you will find a list of on-going and past projects. The Chou lab develops molecular technologies for biological applications. These devices are composed of engineered DNA and protein molecules that are programmed to self-assemble according to user-defined structures and logics in order to carry out specific tasks.
+The Chou lab develops molecular technologies for biological applications. These devices are made of engineered DNA and protein molecules which have been programmed to self-assemble according to user-defined rules and structures that enable them to carry out specific tasks. Below you will find a list of on-going and past projects:
