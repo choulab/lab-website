@@ -44,7 +44,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = "center-block"
+ css_class = "img.center-block"
 +++
 
 {{< figure library="true" src="ibbme-logo.png" title="" lightbox="false" >}}
