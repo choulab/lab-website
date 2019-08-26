@@ -26,7 +26,7 @@ height = "500px"
 
 [[item]]
   title = "DNA nanotechnology"
-  content = "We program DNA to create nanoscale devices that can help us manipulate and dissect biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
+  content = "We program DNA to create nanoscale devices that help us manipulate and dissect biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
