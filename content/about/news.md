@@ -50,12 +50,12 @@ subtitle = ""
 ### May 2019
 - Leo visits McMaster University to give a BIMR symposium lecture. Thanks to the [Soleymani lab](http://geneticsensing.com/) for hosting
 - Leo visits Aalto University to attend the Nantech 2019 conference
-- The lab is [awarded](https://mbd.utoronto.ca/news/new-ideas-2019/) the 2019 MbD New Ideas award (1 of 9 labs). We will be working with the Treanor lab to build DNA devices to elucidate B cell signaling for vaccine and regenerative medicine applications
+- The lab has been [awarded](https://mbd.utoronto.ca/news/new-ideas-2019/) the 2019 MbD New Ideas award (1 of 9 labs). We will be working with the Treanor lab to build DNA devices to elucidate B cell signaling for vaccine and regenerative medicine applications
 - Welcome Matthew Cao and Janice Da Silva to the lab!
 
 
 ### March 2019
-- The lab is [awarded](http://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2018/award_recipients-beneficiaires_du_financement-eng.aspx) the inaugural New Frontiers Research Fund - Exploration grant from the Tri-Council (1 of 10 labs at the University of Toronto, and 1 of 158 in Canada) . We will be using the fund to build molecular computers for portable diagnostics. Thanks Canada!
+- The lab has been [awarded](http://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/exploration/2018/award_recipients-beneficiaires_du_financement-eng.aspx) the inaugural New Frontiers Research Fund - Exploration grant from the Tri-Council (1 of 10 labs at the University of Toronto, and 1 of 158 in Canada) . We will be using the fund to build molecular computers for portable diagnostics. Thanks Canada!
 - Leo discusses the integration of DNA nanotech with synthetic biology at the MbD synbio discussion group
 
 
