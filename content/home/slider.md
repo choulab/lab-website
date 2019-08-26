@@ -16,15 +16,6 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Where we are"
-  content = "Our lab is located at the University of Toronto, in the heart of the city, within walking distance to the MaRS innovation centre and the University Hospitals"
-  align = "left"
-
-  #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/cityscape-1400x500.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "DNA nanotechnology"
   content = "We program DNA to create nanoscale devices that help us manipulate and dissect biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
@@ -37,6 +28,15 @@ height = "500px"
   cta_url = "https://choulab.netlify.com/project/factory"
   cta_icon_pack = "fas"
   cta_icon = "search"
+
+[[item]]
+  title = "Where we are"
+  content = "Our lab is located at the University of Toronto, in the heart of the city, within walking distance to the MaRS innovation centre and the University Hospitals"
+  align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/cityscape-1400x500.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Programmable gene circuits"
