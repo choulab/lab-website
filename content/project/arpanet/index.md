@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-We design DNA sequences to serve as artificial transcription factors to make in vitro gene regulatory networks scalable and programmable
+We design nucleic acid-based transcription factors to make in vitro gene regulatory networks scalable and programmable
