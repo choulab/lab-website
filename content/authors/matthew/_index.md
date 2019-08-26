@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Travis Douglas
+name: Matthew Cao
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc candidate
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BS in Molecular Biology
+  - course: BASc in Materials Science Engineering
     institution: University of Toronto
-    year: 2019
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -55,12 +55,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "travis.douglas@mail.utoronto.ca"
+email: "matthew.cao@mail.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- members
+- current members
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
