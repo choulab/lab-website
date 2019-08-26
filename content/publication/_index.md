@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-A complete, up-to-date list of publications can be found in [google scholars](https://scholar.google.com/citations?user=SmitgU0AAAAJ&hl=en)
+A complete, up-to-date list of publications can also be found in [google scholars](https://scholar.google.com/citations?user=SmitgU0AAAAJ&hl=en)
