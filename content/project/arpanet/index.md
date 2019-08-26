@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "arpanet"
+title: "Arpanet"
 summary: ""
 authors: []
 tags: ["past", "computing"]

@@ -4,9 +4,14 @@
 title: "Billboard"
 summary: ""
 authors: []
-tags: ["active", "receptors"]
+tags: ["active", "receptor"]
 categories: []
 date: 2019-08-25T16:53:25-04:00
+
+reading_time: true # Show estimated reading time?
+share: false # Show social sharing links?
+profile: false # Show author profile?
+comments: false # Show comments?
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

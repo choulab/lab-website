@@ -8,6 +8,11 @@ tags: ["active", "computing"]
 categories: []
 date: 2019-08-25T17:48:13-04:00
 
+reading_time: true # Show estimated reading time?
+share: false # Show social sharing links?
+profile: false # Show author profile?
+comments: false # Show comments?
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
