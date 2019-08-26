@@ -1,7 +1,9 @@
 <footer class="site-footer">
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
-  <p class="powered-by">
+  <div class="center-block">
     <img library="true" src="/img/ibbme-logo.png" title="" lightbox="false" ></img>
+  </div>
+  <p class="powered-by">
     {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}
