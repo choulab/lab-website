@@ -222,10 +222,13 @@ hr {
 /* images more like cards; iframes more seamless */
 
 img {
-	margin-bottom: 1.5rem;
-	overflow: hidden;
-	background: #fff;
-	box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+	/*margin-bottom: 1.5rem;*/
+	/*overflow: hidden;/*
+	/*background: #fff;*/
+	/*box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img.center-block {
