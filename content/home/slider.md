@@ -38,6 +38,11 @@ height = "500px"
   overlay_img = "headers/cityscape-1400x500.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
+  cta_label = "Visit Us"
+  cta_url = "https://goo.gl/maps/vtSfkc8fMov3mMZG9"
+  cta_icon_pack = "fas"
+  cta_icon = "map-marked"
+
 [[item]]
   title = "Programmable gene circuits"
   content = "Our DNA-powered gene networks are being used to build portable molecular computers and operating systems"
