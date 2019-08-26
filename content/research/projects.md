@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "all"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Active"
-    tag = "Active"
+    name = "active"
+    tag = "active"
     
   [[content.filter_button]]
-    name = "Past"
-    tag = "Past"
+    name = "past"
+    tag = "past"
 
   [[content.filter_button]]
     name = "computing"

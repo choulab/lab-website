@@ -4,7 +4,7 @@
 title: "Gingham"
 summary: ""
 authors: []
-tags: [Active][computing]
+tags: ["active", "computing"]
 categories: []
 date: 2019-08-25T17:47:31-04:00
 
