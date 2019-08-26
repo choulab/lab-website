@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-A complete, up-to-date list of publications can also be found in [google scholars](https://scholar.google.com/citations?user=SmitgU0AAAAJ&hl=en)
+The publications below can be sorted by type, year, or keywords. You can also visit Leo's [google scholars](https://scholar.google.com/citations?user=SmitgU0AAAAJ&hl=en) page for an up-to-date list of publications.
