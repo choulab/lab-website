@@ -47,4 +47,4 @@ subtitle = ""
  css_class = "center-block"
 +++
 
-{{< figure library="true" src="ibbme-logo.png" title="ibbme-logo" lightbox="true" >}}
+{{< figure library="true" src="ibbme-logo.png" title="" lightbox="false" >}}
