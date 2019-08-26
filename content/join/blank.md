@@ -47,11 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
-We are always looking for highly creative and driven people with a strong background in chemistry, molecular biology, biochemistry, engineering, or computational biology. We strive to create a collaborative and supportive environment for innovation. We prefer sharing, communication, and collaboration. Read below for our mentorship policy.<br><br>
+We are always looking for highly creative and driven people with a strong background in chemistry, molecular biology, biochemistry, engineering, or computational biology to join us. We strive to create a collaborative and supportive environment for research & innovation. We value sharing, communication, and collaboration over secrecy and competition. See also our [mentorship policy](#Mentorship policy). If you're interested in joining the lab, read the instructions below. In any case, if you send a blatantly obvious copypasta email, it will probably be ignored :-)<br><br>
 
 ## Postdocs
 
-If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). It would be great if you can suggest potential topics you would be interested to work on. You're not bound by this but it will provide a starting point of conversation. If you send a generic copy-paste email, we will happily ignore your email :-)<br><br>
+If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). It would be great if you can suggest potential topics you would be interested to work on. You're not bound by this but it will provide a starting point of conversation.<br><br>
 
 ## Graduate students
 
