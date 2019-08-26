@@ -4,7 +4,7 @@
 title: "Prospector"
 summary: ""
 authors: []
-tags: [Active]
+tags: ["active", "receptor"]
 categories: []
 date: 2019-08-25T17:47:58-04:00
 

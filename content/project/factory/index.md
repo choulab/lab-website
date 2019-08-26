@@ -4,7 +4,7 @@
 title: "Factory"
 summary: ""
 authors: []
-tags: ["past"]
+tags: ["past", "computing"]
 categories: []
 date: 2019-08-25T18:28:52-04:00
 

@@ -4,7 +4,7 @@
 title: "Billboard"
 summary: ""
 authors: []
-tags: [Active]
+tags: ["active", "receptors"]
 categories: []
 date: 2019-08-25T16:53:25-04:00
 
