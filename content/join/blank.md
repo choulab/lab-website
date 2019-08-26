@@ -51,7 +51,7 @@ We are always looking for highly creative and driven people to join us. We striv
 
 ## Postdocs
 
-If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). It would be great if you can suggest potential topics you would be interested to work on. You're not bound by this but it will provide a starting point of conversation.<br><br>
+If you are interested in our research and you have a recent PhD degree in chemistry, biochemistry, molecular or cell biology, proteomics/genomics, engineering, or computer science, please send Leo an email and discuss your research interests (also include your CV and contact details of three references). It would be great if you can suggest potential topics you are interested in working on. You're certainly not bound by this, it is merely a starting point of conversation.<br><br>
 
 ## Graduate students
 
@@ -63,6 +63,6 @@ We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/under
 
 ## <a name="mentorship"></a>Mentorship policy
 
-Science is hard, but it should also be fun. You could be doing many different things in life, and you chose science, so we are here to make sure that that choice is as rewarding as can be (and it will be!). To do that, we work together to create a lab environment that is supportive, collaborative, and dynamic, and ensure that all of its team members are driven, curious, passionate, and participatory. 
+Science is hard, but it should also be really fun. You could be doing many different things in life, and you chose science, so we are here to make sure that that choice is as rewarding as can be (and it will be!). To do that, we work together to create a lab environment that is supportive, collaborative, and dynamic, and ensure that all of its team members are driven, curious, passionate, and participatory. 
 
 For students just starting out, we take time to carve out starter projects so they don't feel overwhelmed. **We are also keen on supporting student club participation in international competitions**. We empower students to have ownership over these projects, while developing strutured training plans so that there is systematic learning. At the same time, we keep communication channels open so there is plenty of room for feedback. For more experienced reserachers, we grant the freedom to explore, chart new territories, and take creative risks while providing guidance and career development opportunities. In addition to scientific excellence, our goal is to make every one of our team members become the best version of themselves through this training experience.
