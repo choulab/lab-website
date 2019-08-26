@@ -44,7 +44,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = "mini"
+ css_class = ""
 +++
 
 The Chou Lab develops artificial, self-assembling molecular technologies inspired by biology. We use these engineered devices for biological applications, such as for biomarker discovery, personal diagnostics, and therapeutics. Towards this goal, our lab uses the tools of DNA nanotechnology, protein engineering, chemistry, molecular biology, and mixes experimentation with computation. Students in the lab gain a broad spectrum of skills including molecular techniques, biochemistry, imaging, coding, device fabrication, and much more.<br>
