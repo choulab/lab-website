@@ -86,7 +86,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Our current projects focus on two sets of applications:<br>
+We engineer DNA and proteins to create self-assembling molecular devices for biological applications. Our current projects focus on two sets of applications:<br>
 
 - technologies to explore, bind, and re-wire cell surface receptors and downstream signaling pathways
 - cell-free molecular computing technologies for portable molecular diagnostics and information processing
