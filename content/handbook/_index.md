@@ -21,19 +21,20 @@ menu:
     weight: 1
 ---
 
-Our lab strives for scientific rigor, creativity, and commitment to foster an inclusive environment. We invest in students and in their growth. Now that you’ve made it to the lab, I hope you will commit to being part of a tradition of excellence and be proud of this fact as we embark on this scientific journey together.
+This lab strives for scientific rigor, creativity, and commits to fostering an engaging and inclusive environment. Now that you’ve made it to the lab, I hope you will proudly commit to upholding this tradition of excellence as we embark on this scientific journey together.
 
 This handbook will primarily teach you how to organize your ideas, experiments, and projects in the lab, as well as things like how to oreder reagents. For a general guide on graduate school in IBBME, consult the departmental handbook ([PDF](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf)).<br><br>
 
-## Before you start
+## First Steps
 
-Check to see whether you have already done the following:
+Before you start working in the lab, you must complete the following:
 
-* Submitted your signed supervisor-student agreement [form](/) to Leo
-* After reading this handbook, submit your signed lab [agreement form](/) to Leo
-* Obtained your T-Card<br><br>
+* Submit your signed supervisor-student agreement [form](/) to Leo
+* Read this handbook and submit your signed lab [agreement form](/) to Leo
+* Obtain your T-Card (if you're not a current UofT student)
+* Go through lab safety training<br><br>
 
-## First steps
+## Quick links
 
 To get the most out of this handbook, start by reviewing a few introductory topics:
 
@@ -48,5 +49,7 @@ To get the most out of this handbook, start by reviewing a few introductory topi
 <br>
 
 {{% alert warning %}}
-This is a living document and will be continually updated by members of the lab
+This is a living document and will be continually updated by members of the lab. This lab manual is licensed under a Creative Commons Attribution - NonCommercial 4.0 International License. If you’re a PI or a trainee in a different lab and want to write your own lab manual, feel free to take inspiration from this one.
+
+credit: the initial version of this handbook took inspiration from the [Aly lab](https://www.alylab.org/)
 {{% /alert %}}
