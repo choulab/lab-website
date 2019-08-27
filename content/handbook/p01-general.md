@@ -17,7 +17,7 @@ Our lab is committed to scientific excellence, creativity, and an inclusive envi
 
 ## Everyone <a name="everyone"></a>
 
-### Big picture
+*Big picture*
 
 Science is hard. But it should also be fun. In the Chou lab, we want to ensure that everyone experiences an engaging, challenging, but rewarding lab environment. This is every one’s responsibility and common goal. To maintain this environment, we all have to do a few things:
 
@@ -29,7 +29,7 @@ Science is hard. But it should also be fun. In the Chou lab, we want to ensure t
 - **Health and happiness.** This is top priority. If you’re struggling, voice it to someone (feel free to tell Leo). Never be afraid to ask questions. If you see someone else struggling, escalate your concerns to Leo. We want everyone to be happy and having fun. 
 - **Work-life balance.** Related to previous point. Science is a marathon, not a sprint. Have a life outside of the lab will keep you happy, energized, and overall more productive.
 
-### Small picture
+*Small picture*
 
 - **Punctuality.** Show up on time to meetings, classes, and the lab. Constantly improve your time management skills. Stay organized. Respect that everyone has a busy schedule and having access to their time is a privilege and their gift to you.
 - **Self-motivation.** You’re not expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of the day you like to do it).
