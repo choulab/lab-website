@@ -21,9 +21,9 @@ menu:
     weight: 1
 ---
 
-Our lab is committed to scientific excellence, creativity, and an inclusive environment for all its members. Now that you're part of this lab, I hope you will proudly uphold this tradition of excellence as we embark on this scientific journey together.
+Our lab is committed to scientific excellence, creativity, and an inclusive environment for all its members. Now that you're part of this lab, we hope you will proudly uphold these values as we embark on this scientific journey together.
 
-This handbook will primarily teach you how to organize your ideas, experiments, and projects in the lab, as well as things like how to order reagents. For a more general guide on starting graduate school in IBBME, consult the departmental handbook ([link to PDF](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf)).<br><br>
+This handbook will primarily teach you how to get things done in the lab, as well as how to organize your ideas, experiments, and projects as a researcher. For a more general guide on starting graduate school in IBBME, consult the departmental handbook ([link to PDF](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf)).<br><br>
 
 ## First Steps
 
@@ -40,9 +40,9 @@ To get the most out of this handbook, start by reviewing a few introductory topi
 
 [Lab policies](/handbook/p01-general/) - general rules about lab schedules, hours & location, graduation requirements, and authorship policies
 
-[Organizing your research](/) - tips for how to organize your ideas, project, experiments, and meta-data
+[Getting started](/handbook/h01-ordering) - instructions on how to get stuff done, e.g. ordering supplies, IT stuff, lab hacks
 
-[How to get stuff done](/) - instructions on lab stuff, e.g. how to order reagents, lab hacks, IT stuff
+[Organizing your research](/handbook/r01-whatisresearch) - tips for organizing your ideas, project, experiments, and meta-data
 
 <br>
 
