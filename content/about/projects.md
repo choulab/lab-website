@@ -86,9 +86,9 @@ subtitle = ""
  css_class = ""
 +++
 
-We engineer DNA and proteins to create self-assembling molecular devices for biological applications. Our current projects focus on two sets of applications:<br>
+We engineer DNA and proteins to build self-assembling molecular devices for biological applications. Our projects currently revolve around the following two themes:<br>
 
 - technologies to explore, bind, and re-wire cell surface receptors and downstream signaling pathways
 - cell-free molecular computing technologies for portable molecular diagnostics and information processing
 
-These technologies are composed of engineered DNA and protein molecules, which have been programmed to self-assemble via specific rules and structures for carrying out user-defined tasks. Below you will find a list of our current and past projects (and yes, Leo enjoys coming up with cryptic project code names):
+Below you will find a list of our current and past projects (and yes, Leo enjoys coming up with cryptic project code names):
