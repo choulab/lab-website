@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -86,9 +86,9 @@ subtitle = ""
  css_class = ""
 +++
 
-The Chou lab develops molecular technologies for biological applications. These devices are made from engineered DNA and protein molecules, which have been programmed to self-assemble according to user-specified rules and structures to carry out specific tasks. Our current investigations focus on two sets of applications:<br>
+Our current projects focus on two sets of applications:<br>
 
-- technologies to explore, bind, and re-wire cell surface receptors for immunology and systems biology applications
-- in vitro molecular computing technologies for diagnostic and bio-analytical applications
+- technologies to explore, bind, and re-wire cell surface receptors and downstream signaling pathways
+- cell-free molecular computing technologies for portable molecular diagnostics and information processing
 
-Below you will find a list of on-going and past projects (and yes, Leo enjoys coming up with cryptic project code names):
+These technologies are composed of engineered DNA and protein molecules, which have been programmed to self-assemble via specific rules and structures for carrying out user-defined tasks. Below you will find a list of our current and past projects (and yes, Leo enjoys coming up with cryptic project code names):

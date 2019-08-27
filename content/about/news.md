@@ -46,7 +46,7 @@ subtitle = ""
 ### Aug 2019
 - Stuti is a recipient of this year's Milligan Graduate Scholarship in IBBME, congrats Stuti!
 - Welcome Stuti, Travis, Abdulmateen, and Ryan (aka team S.T.A.R.) to the lab!
-
+- The beta version of the lab website is now live!
 
 ### May 2019
 - Leo visits McMaster University to give a BIMR symposium lecture. Thanks to the [Soleymani lab](http://geneticsensing.com/) for hosting

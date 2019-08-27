@@ -22,7 +22,7 @@ height = "500px"
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/factory-1400x500.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
   cta_url = "https://choulab.netlify.com/project/factory"
@@ -84,4 +84,5 @@ height = "500px"
   cta_url = "https://choulab.netlify.com/join"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
+
 +++

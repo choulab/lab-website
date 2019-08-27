@@ -13,18 +13,21 @@
   url = "/about#news"
   weight = 20
 
+# Belongs to people menu
 [[main]]
   name = "People"
   url = "/about#people"
   weight = 30
   identifier = "People"
 
+# Belongs to people menu
 [[main]]
   name = "PI"
   url = "/authors/leo"
   weight = 10
   parent = "People"
 
+# Belongs to people menu
 [[main]]
   name = "members"
   url = "/about/#people"
@@ -32,8 +35,8 @@
   parent = "People"
 
 [[main]]
-  name = "Research"
-  url = "/research"
+  name = "Projects"
+  url = "/about#projects"
   weight = 40
 
 [[main]]
@@ -42,9 +45,20 @@
   weight = 50
 
 [[main]]
+  name = "Resources"
+  weight = 60
+  identifier = "Resources"
+
+[[main]]
+  name = "Lab Handbook"
+  url = "/handbook"
+  weight = 60
+  parent = "Resources"
+
+[[main]]
   name = "Join"
   url = "/join"
-  weight = 60
+  weight = 70
 
 # [[main]]
 #  name = "Contact"
