@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Chou Lab Handbook
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary:
 weight: 1
 
 # Page metadata.
@@ -21,9 +21,7 @@ menu:
     weight: 1
 ---
 
-Our lab is committed to scientific excellence, creativity, and an inclusive environment for all its members. Now that you're part of this lab, we hope you will proudly uphold these values as we embark on this scientific journey together.
-
-This handbook will primarily teach you how to get things done in the lab, as well as how to organize your ideas, experiments, and projects as a researcher. For a more general guide on starting graduate school in IBBME, consult the departmental handbook ([link to PDF](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf)).<br><br>
+This handbook is intended for incoming students of the Chou lab. The primary purpose of the handbook is to teach you how to get things done in the lab, such as how to organize your ideas, experiments, and projects as a researcher. It is a living document that is continously updated based on feedbacks from lab members. For a more general guide on starting graduate school in IBBME, consult the departmental handbook ([link to PDF](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf)).<br><br>
 
 ## First Steps
 
