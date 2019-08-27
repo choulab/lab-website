@@ -25,7 +25,7 @@ height = "500px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
-  cta_url = "https://choulab.netlify.com/project/factory"
+  cta_url = "https://choulab.netlify.com/about#projects"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
