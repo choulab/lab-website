@@ -53,7 +53,7 @@ height = "500px"
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
-  cta_url = "https://choulab.netlify.com/project/gene-network"
+  cta_url = "https://choulab.netlify.com/about#projects"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
