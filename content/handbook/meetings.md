@@ -17,7 +17,7 @@ weight: 80
 ## General meeting rules:
 
 * All presenters should upload meeting agenda **the day before** to lab server or Dropbox
-* Cell phones should be turned put in silent or airplane mode during the meeting
+* Cell phones should be put in silent or airplane mode during the meeting
 * Respect and pay attention to the presenter at all times
 * Take notes and be proactive about providing verbal or written feedback to presenter
 * Participate in discussions and learn to ask questions
