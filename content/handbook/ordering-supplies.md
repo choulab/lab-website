@@ -56,7 +56,3 @@ When an item has been depleted, and you’re the one throwing it out, do the fol
 - Change its availability box from ‘available’ to ‘unavailable’
 - This will be critical for keeping the lab inventory up to date!!!
 - P.S. the python script will automatically delete any items from the Master Inventory that is marked ‘unavailable’ and >5 years old from purchase date
-
-## Remote access to journals
-
-You should be able to access journal articles off-campus by setting up virtual private network (VPN) on your computer. To do so, go to [UTORVpn](http://vpn.utoronto.ca/) and choose the right install for your computer (e.g. PC vs. Mac). Once you’ve set this up, you will be able to access the UofT network via VPN. This should provide you with journal access directly from your browser as if you’re on campus.
