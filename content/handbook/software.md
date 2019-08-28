@@ -32,7 +32,7 @@ You should be able to access journal articles off-campus by setting up virtual p
 All materials generated from your project (including protocols, images, numerical data, scripts for analysis, presentation slides, manuscripts, ...etc.) should be kept in a centralized location so they can be accessed by current and future lab members. This location will be equipped with back up and version control. We are temporarily using [Dropbox](https://www.dropbox.com/h) because it is easy to use. This location will also contain general lab files, such as the `Master Inventory` spreadsheet that we use to keep track of all inventories.
 
 {{% alert note %}}
-19.08.27. We will be gradually transitioning to a Network Attached Storage in April 2020 (NAS), when our permanent lab space is complete.
+19.08.27. We will migrating to a Network Attached Storage in April 2020 (NAS), when our permanent lab space is complete.
 {{% /alert %}}
 
 
