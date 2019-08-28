@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   handbook:
     name: Contribute
-    weight: 1
+    weight: 5
 ---
 
 
