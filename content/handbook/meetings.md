@@ -16,9 +16,9 @@ weight: 80
 
 ## General meeting rules:
 
-* All presenters should upload meeting agenda the day before to lab server or Dropbox
-* Cell phones should be turned off or put in airplane mode during the meeting
-* Respect and pay attention to the presenter
+* All presenters should upload meeting agenda **the day before** to lab server or Dropbox
+* Cell phones should be turned put in silent or airplane mode during the meeting
+* Respect and pay attention to the presenter at all times
 * Take notes and be proactive about providing verbal or written feedback to presenter
 * Participate in discussions and learn to ask questions
 
@@ -35,11 +35,11 @@ weight: 80
 * **Purpose**: project update, practice communication
 * Once a week. To be scheduled with project members
 * All materials should be uploaded one day in advance of meeting for members to review
-* 10 to 15 min *research update* presentation per member + Q&A
+* 10 to 15 min update per member + Q&A as needed
 * Discussion time as needed
 
 ## Milestone Meetings
 * **Purpose**: goal setting, career skills development, feedback
 * Twice a year. Typically September (goalsetting) and May (feedback)
 * Complete the individual development plan ([IDP](/)) before hand
-* 1 hour long, freeform discussion
+* 30 min to 1 hour long, freeform discussion
