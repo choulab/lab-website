@@ -19,9 +19,9 @@ weight: 50
 
 The lab uses a Google Calendar to organize all group activities, such as group meetings, socials, lab clean ups, and institutional events. Send a request to this [email](lytchoulab@gmail.com) to obtain access. This will keep you in the loop on all lab activities. You are also expected to note any time you're away during [group hours](/handbook/hours#grouphours) on this calendar.
 
-## To-do list
+## Task management
 
-Use [Google Keep](https://keep.google.com) to generate daily to-do lists. You should develop the habit of doing this every day, right before you leave the lab (i.e. plan out your activities for the next day). Google Keep integrates with Google Calendar, so after making the list, place each item into your calendar so that you actually make time for each item. Then, when you come in the next day, execute the list, checking items off as you go along. This will help you prioritize and stay focused.
+Use [Trello](https://www.trello.com) to generate to-do lists and plan your schedule. Its free and you can sign-in using a Google Account. You should develop the habit of reviewing your activities on a daily basis. For example, right before you leave the lab, plan out your activities for the next day using Trello. Trello integrates with Google Calendar, so once you have generated your to-do list with due dates, you can use your calendar to know when you need to be doing what. When you have completed items on your to-do list, check the items off as you go along. This will help you prioritize and stay focused. More on using Trello for research [here](/handbook/metadata#todos)
 
 ## Remote journal access
 
@@ -35,6 +35,7 @@ All materials generated from your project (including protocols, images, numerica
 19.08.27. We will migrating to a Network Attached Storage in April 2020 (NAS), when our permanent lab space is complete.
 {{% /alert %}}
 
+<a name="inventory"></a>
 
 ## Inventory management
 

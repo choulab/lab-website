@@ -30,7 +30,7 @@ For a more general guide on graduate school in IBBME, consult the departmental [
 Before you start working in the lab, you must complete the following:
 
 * Submit your signed supervisor-student agreement [form](/https://ibbme.utoronto.ca/wp-content/uploads/2019/07/2019-20-supervisor-student-agreement-form-Updated.pdf) to Leo
-* Read this handbook and submit your signed lab [agreement form](/) to Leo
+* Read this handbook and submit your signed lab agreement [form](/) to Leo
 * Obtain your T-Card (if you're not a current UofT student)
 * Sign up for and complete lab safety training<br><br>
 
@@ -40,7 +40,7 @@ To get the most out of this handbook, start by reviewing a few introductory topi
 
 [Lab policies](/handbook/general) - general rules about lab hours & location, graduation requirements, and authorship
 
-[Getting started](/handbook/setup) - instructions on how to get stuff done, e.g. ordering supplies, IT stuff, lab hacks
+[Getting started](/handbook/setup) - instructions on how to get stuff done, e.g. set up your workflow, ordering supplies, IT stuff, lab hacks
 
 [Organizing your research](/handbook/whatisresearch) - tips for organizing your ideas, project, experiments, and meta-data
 

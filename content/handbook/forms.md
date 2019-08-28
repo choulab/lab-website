@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: 
-summary: Ways to improve this lab handbook and provide feedback to the lab
+summary: A list of and relevant forms and templates
 weight: 9999
 
 # Page metadata.
-title: Contribute
+title: Forms
 date: "2019-08-27T00:00:00Z"
 lastmod: "2019-08-27T00:00:00Z"
 draft: true  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   handbook:
-    name: Contribute
+    name: Forms
     weight: 99
 ---
 
