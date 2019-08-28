@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Chou Lab Handbook
-summary:
+summary: Learn how to get conduct scientific research in the lab
 weight: 1
 
 # Page metadata.
@@ -21,9 +21,9 @@ menu:
     weight: 1
 ---
 
-This handbook is intended for incoming students of the Chou lab. Its primary purpose is to teach you how to get things done in the lab, such as how to organize your ideas, experiments, and projects as a researcher. It is a living document that is continously updated based on feedbacks from members of the lab. 
+This handbook is intended for prospective and current members of the Chou lab. Its primary purpose is to teach you how to get things done in the lab and how to perform research, e.g. how to organize your ideas, experiments, and projects as a researcher. This is a "living" document that is continously updated based on feedbacks from members of the lab. 
 
-For a more general guide on graduate school in IBBME, consult the departmental [handbook](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf) (PDF will open in a new window).<br><br>
+For a more general guide on graduate school in IBBME, consult the departmental [handbook](https://ibbme.utoronto.ca/wp-content/uploads/Current_Students/2018-19-Graduate-Handbook.pdf).<br><br>
 
 ## First Steps
 

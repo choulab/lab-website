@@ -11,7 +11,7 @@ menu:
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 10
 ---
 Our lab is committed to scientific excellence, creativity, and an inclusive environment for all its members. Now that you're part of this lab, we hope you will proudly uphold these values as we embark on this scientific journey together.
 
