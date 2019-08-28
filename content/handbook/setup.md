@@ -1,6 +1,6 @@
 ---
-title: Set up
-linktitle: Set up
+title: Setup
+linktitle: Setup
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
