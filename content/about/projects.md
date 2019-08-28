@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -86,7 +86,7 @@ subtitle = ""
  css_class = ""
 +++
 
-We engineer DNA and proteins to build self-assembling molecular devices for biological applications. Our projects currently revolve around the following two themes:<br>
+Our current projects revolve around the following two themes:<br>
 
 - technologies to explore, bind, and re-wire cell surface receptors and downstream signaling pathways
 - cell-free molecular computing technologies for portable molecular diagnostics and information processing

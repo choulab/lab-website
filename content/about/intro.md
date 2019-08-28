@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Overview"
+title = ""
 subtitle = ""
 
 [design]
@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
-The Chou Lab develops artificial, self-assembling molecular technologies inspired by biology. We use these engineered devices for both basic biology and medical applications, such as for biomarker discovery, personal diagnostics, and therapeutics. Towards this goal, our lab uses tools from DNA nanotechnology, protein engineering, chemistry, molecular biology, and mixes experimentation with computation. Students in the lab gain a broad spectrum of skills including molecular techniques, biochemistry, imaging, coding, device fabrication, and much more.<br>
+<div style="text-align:center"><h1>Overview</h1></div>
+
+The Chou Lab develops artificial, self-assembling molecular technologies inspired by biology. These technologies are composed of DNA and protein molecules which have been engineered to assemble according to user-specified structures and logics. We are interested in using these engineered devices for both basic biology and medical applications, such as for biomarker discovery, personal diagnostics, and therapeutics. To this end, our lab uses a mix of tools from DNA nanotechnology, protein engineering, chemistry, molecular biology, and combines experimentation with computation. Students in the lab gain a broad spectrum of skills including molecular techniques, biochemistry, imaging, coding, device fabrication, and much more.<br>
 
 We are proud to be a multidisciplinary group, and welcome applicants from diverse fields including but not limited to biology, chemistry, physics, engineering and computer science. All we require is that you're driven, innovative, self-motivated, and curious with a passion. We also believe that academic should not not be the only reason to pursue graduate research, and we actively work on  projects that can lead to innovative careers including start up and spin-off ventures. If you are interested in working with us, you can find the [application process](/join) here!

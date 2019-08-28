@@ -4,20 +4,28 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "About"
+  name = "Research"
   url = "/about"
   weight = 10
+  identifier = "Research"
 
 [[main]]
-  name = "News"
-  url = "/about#news"
+  name = "Overview"
+  url = "/about#intro"
+  weight = 10
+  parent = "Research"
+
+[[main]]
+  name = "Projects"
+  url = "/about#projects"
   weight = 20
+  parent = "Research"
 
 # Belongs to people menu
 [[main]]
-  name = "People"
+  name = "Team"
   url = "/about#people"
-  weight = 30
+  weight = 20
   identifier = "People"
 
 # Belongs to people menu
@@ -33,11 +41,6 @@
   url = "/about/#people"
   weight = 20
   parent = "People"
-
-[[main]]
-  name = "Projects"
-  url = "/about#projects"
-  weight = 40
 
 [[main]]
   name = "Publications"

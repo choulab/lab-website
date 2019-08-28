@@ -107,6 +107,11 @@ h1 {
 	background-color: #282a36;
 }
 
+/* make dark even/odd sections same color so less stripey */
+
+.light .home-section:nth-of-type(n) {
+  background-color: #282a36;
+}
 
 /* alerts */
 
