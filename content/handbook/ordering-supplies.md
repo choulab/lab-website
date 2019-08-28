@@ -49,7 +49,9 @@ This is important! A python script will periodically update our `Master Inventor
 {{% /alert %}}
 
 ## Depleted items
+
 When an item has been depleted, and you’re the one throwing it out, do the following:
+
 - Find the item record in the `Master Inventory` spreadsheet using a combination of its lot no. and catalog no.
 - Change its availability box from ‘available’ to ‘unavailable’
 - This will be critical for keeping the lab inventory up to date!!!
