@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Contribute
 summary: Ways to improve this lab handbook and provide feedback to the lab
-weight: 5
+weight: 999
 
 # Page metadata.
 title: Contribute and provide feedback
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   handbook:
     name: Contribute
-    weight: 5
+    weight: 999
 ---
 
 
