@@ -27,7 +27,7 @@ Use [Trello](https://www.trello.com) to generate to-do lists and plan your sched
 ## Documentation
 ### Ideas
 
-We use [Evernote](https://evernote.com/) to document all *conceptual* aspects of a project, which includes the following items:
+We use [Evernote](https://evernote.com/) to record all *conceptual* aspects of a project, which includes the following:
 
 - **Meeting** notes: this includes both group and project meetings, and informal discussions with colleagues and advisors
 - **Reading** notes: annotate papers that you've read and find relevant
@@ -35,7 +35,7 @@ We use [Evernote](https://evernote.com/) to document all *conceptual* aspects of
 - **Presentation** notes: this includes notes you take at conference presentations
 - **Ideas**: any time you have an idea, for example that stemmed from your research activities, such as follow up projects, new research questions, or ideas on how to solve a bottleneck, write them down so you can articulate them and discuss with Leo or other people later!
 
-You should have **one notebook per project**. You should also create a `tag` for each of the items listed above. Everytime you jot down something, categorize them by tag. This will help you find the note later on (what good is a notebook if you can't ever find anything?). Get into the habit of writing down something every week, or even every day. Share your project notebook with all project members (including Leo!)
+You should have **one notebook per project**. Create a `tag` for each of the items listed above and tag your notes. This will help you find the note later on (what good is a notebook if you can't ever find anything?). Get into the habit of writing down something every week, or even every day. Share your project notebook with all project members (including Leo!)
 
 > Get into the habit of documenting all of your thoughts on paper! **Remember, the only thing between messing things around and science is writing things down!**
 
@@ -43,16 +43,17 @@ You should have **one notebook per project**. You should also create a `tag` for
 
 Each experiment you perform should contain these items:
 
-- protocol (written in Microsoft Word or some text editor that supports tables)
-- raw results (e.g. images, numerical data)
-- scripts (for analyzing the results, if needed)
+- protocol (written in a text editor that supports tables, e.g. Word)
+- raw data (e.g. images, numbers)
+- scripts (for analyzing the data, if needed)
+- summary of results
 
-These items should be stored in one folder with a standardized naming convention: `your initials+experiment number-experiment date-experiment description`. For example, let's say Leo performed his first experiment on January 25th, 2019 on folding DNA origami, then the folder name would be `LC001-190125-origami-folding`. All of your experiments belonging to a project would be stored in that project's `Experiments` sub-folder. This sub-folder can contain experiments performed by you as well as by other researchers participating in the same project. This project folder will therefore live on a sharable, centralized location, such as the group's server. More on this in later section on [organizing your research](/handbook/whatisresearch).
+These items should be stored in the same folder with a standardized naming convention, i.e. `your initials+experiment number-experiment date-experiment description`. For example, let's say Leo performed his first experiment on January 25th, 2019 when he folded DNA origami, then the folder name would be `LC001-190125-origami-folding`. All experiments belonging to a project would be stored in that project's `Experiments` sub-folder. This sub-folder can contain experiments performed by you as well as by other members within the same project. This project folder will live on a sharable, centralized location, such as the group's server. More on this in later section on [organizing your research](/handbook/whatisresearch).
 
 
 ## File storage
 
-All materials generated from your project (including protocols, images, numerical data, scripts for analysis, presentation slides, manuscripts, ...etc.) should be kept in a centralized location so they can be accessed by current and future lab members. This location will be equipped with back up and version control. We are temporarily using [Dropbox](https://www.dropbox.com/h) because it is easy to use. Leo will send you the shared link. This location will also contain all common lab files, such as documentation of archived projects, inventory, working manuscript files, etc.
+All materials generated from your project (including protocols, images, numerical data, scripts for analysis, presentation slides, manuscripts, ...etc.) should be kept in a centralized location so they can be referenced by current and future lab members. This location will be equipped with back up and version control. We are temporarily using [Dropbox](https://www.dropbox.com/h) because it is easy. Leo will send you the shared link. This location will also contain all common lab files, such as documentation of archived projects, inventory, working manuscript files, etc.
 
 {{% alert note %}}
 19.08.27. We will migrating to a Network Attached Storage in April 2020 (NAS), when our permanent lab space is complete.
@@ -62,7 +63,7 @@ All materials generated from your project (including protocols, images, numerica
 
 ## Inventory management
 
-We use two files to manage our reagents and supplies inventory. The first is a Google Sheet named `Lab Purchasing YYYY`, where `YYYY` is the current year. This tracks all purchasing requests and orders placed for that year. Leo will share access to this file to you along with group calendar access. You use this sheet to request reagents and supplies, check if orders have been placed, and document items that have been depleted from the inventory (see [ordering](/handbook/ordering)). Periodically, this sheet will be used to automatically update an Excel file on our server called a `Master Inventory`. You can peruse `Master Inventory` for all items purchased in previous years.
+We use two sets of files to manage our inventory of reagents. The first is a Google Sheet named `Lab Purchasing YYYY`, where `YYYY` is the current year. This sheet tracks all orders placed for that year. Leo will share access to this file to you along with group calendar access. Members will use this sheet to request reagents and supplies, check if orders have been placed, and document items that have been depleted from the inventory (see [ordering](/handbook/ordering)). This sheet will also be used to periodically update an Excel file on our server called a `Master Inventory` (done via a script). You can peruse `Master Inventory` for all items purchased in previous years.
 
 ## Remote journal access
 
