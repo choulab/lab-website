@@ -1,6 +1,6 @@
 ---
-title: Software
-linktitle: Software
+title: Set up
+linktitle: Set up
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -15,35 +15,40 @@ weight: 50
 ---
 
 
-## Lab calendar access
+## Scheduling
 
 The lab uses a Google Calendar to organize all group activities, such as group meetings, socials, lab clean ups, and institutional events. Send a request to this [email](lytchoulab@gmail.com) to obtain access. This will keep you in the loop on all lab activities. You are also expected to note any time you're away during [group hours](/handbook/hours#grouphours) on this calendar.
 
 ## To-do list
 
-Use [Google Keep](https://keep.google.com) to generate daily to-do lists. You should develop the habit of doing this every day, right before you leave the lab (i.e. plan out your activities for the next day). Google Keep integrates with Google Calendar, so after making the list, place each item into your calendar so that you actually make time for each item. Then, when you come in the next day, execute the list, checking items off as you go along. This will help you prioritize and stay focused. 
+Use [Google Keep](https://keep.google.com) to generate daily to-do lists. You should develop the habit of doing this every day, right before you leave the lab (i.e. plan out your activities for the next day). Google Keep integrates with Google Calendar, so after making the list, place each item into your calendar so that you actually make time for each item. Then, when you come in the next day, execute the list, checking items off as you go along. This will help you prioritize and stay focused.
 
 ## Remote journal access
 
 You should be able to access journal articles off-campus by setting up virtual private network (VPN) on your computer. To do so, go to [UTORVpn](http://vpn.utoronto.ca/) and choose the right install for your computer (e.g. PC vs. Mac). Once installed, you will be able to access the UofT network via VPN. This should provide you with journal access directly from your browser as if you’re on campus.
 
-## File management
+## File storage
 
-All materials generated from your project (including protocols, images, numerical data, scripts for analysis, presentation slides, manuscripts, ...etc.) should be kept in a centralized location so they can be accessed by current and future lab members. This location will be equipped with back up and version control. We are temporarily using [Dropbox](https://www.dropbox.com/h) because it is easy to use. This location will also contain general lab files, such as the `Master Inventory` spreadsheet that we use to keep track of all inventories.
+All materials generated from your project (including protocols, images, numerical data, scripts for analysis, presentation slides, manuscripts, ...etc.) should be kept in a centralized location so they can be accessed by current and future lab members. This location will be equipped with back up and version control. We are temporarily using [Dropbox](https://www.dropbox.com/h) because it is easy to use. Leo will send you the shared link. This location will also contain all common lab files, such as documentation of archived projects, inventory, working manuscript files, etc.
 
 {{% alert note %}}
 19.08.27. We will migrating to a Network Attached Storage in April 2020 (NAS), when our permanent lab space is complete.
 {{% /alert %}}
 
 
-## Project notes
+## Inventory management
 
-We use [Evernote](https://evernote.com/) to document all *conceptual* aspects of a project including the following items:
+We use two files to manage our reagents and supplies inventory. The first is a Google Sheet named `Lab Purchasing YYYY`, where `YYYY` is the current year. This tracks all purchasing requests and orders placed for that year. Leo will share access to this file to you along with group calendar access. You use this sheet to request reagents and supplies, check if orders have been placed, and document items that have been depleted from the inventory (see [ordering](/handbook/ordering)). Periodically, this sheet will be used to automatically update an Excel file on our server called a `Master Inventory`. You can peruse `Master Inventory` for all items purchased in previous years.
 
-- **Meeting notes**: this includes both group and project meetings, and informal discussions with colleagues and advisors
-- **Literature notes**: annotate papers that you've read and find relevant
-- **Web clippings**: screenshots, websites, web-based tables, etc.
-- **Presentation notes**: this includes notes you take at conference presentations
+
+## Project documentation
+
+We use [Evernote](https://evernote.com/) to document all *conceptual* aspects of a project, which includes the following items:
+
+- **Meeting** notes: this includes both group and project meetings, and informal discussions with colleagues and advisors
+- **Reading** notes: annotate papers that you've read and find relevant
+- **Clippings**: screenshots, websites, web-based tables, etc.
+- **Presentation** notes: this includes notes you take at conference presentations
 - **Ideas**: any time you have an idea, for example that stemmed from your research activities, such as follow up projects, new research questions, or ideas on how to solve a bottleneck, write them down so you can articulate them and discuss with Leo or other people later!
 
 You should have **one notebook per project**. You should also create a `tag` for each of the items listed above. Everytime you jot down something, categorize them by tag. This will help you find the note later on (what good is a notebook if you can't ever find anything?). Get into the habit of writing down something every week, or even every day. Share your project notebook with all project members (including Leo!)
@@ -51,7 +56,7 @@ You should have **one notebook per project**. You should also create a `tag` for
 > Get into the habit of documenting all of your thoughts on paper! **Remember, the only thing between messing things around and science is writing things down!**
 
 
-## Experiments
+## Experiment documentation
 
 Each experiment you perform should contain these items:
 
