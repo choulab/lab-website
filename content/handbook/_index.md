@@ -38,11 +38,11 @@ Before you start working in the lab, you must complete the following:
 
 To get the most out of this handbook, start by reviewing a few introductory topics:
 
-[Lab policies](/handbook/p01-general/) - general rules about lab hours & location, graduation requirements, and authorship
+[Lab policies](/handbook/general/) - general rules about lab hours & location, graduation requirements, and authorship
 
-[Getting started](/handbook/h01-ordering) - instructions on how to get stuff done, e.g. ordering supplies, IT stuff, lab hacks
+[Getting started](/handbook/ordering-supplies) - instructions on how to get stuff done, e.g. ordering supplies, IT stuff, lab hacks
 
-[Organizing your research](/handbook/r01-whatisresearch) - tips for organizing your ideas, project, experiments, and meta-data
+[Organizing your research](/handbook/whatisresearch) - tips for organizing your ideas, project, experiments, and meta-data
 
 <br>
 
