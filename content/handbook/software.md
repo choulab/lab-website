@@ -19,9 +19,9 @@ weight: 50
 
 The lab uses a Google Calendar to organize all group activities, such as group meetings, socials, lab clean ups, and institutional events. Send a request to this [email](lytchoulab@gmail.com) to obtain access. This will keep you in the loop on all lab activities. You are also expected to note any time you're away during [group hours](/handbook/hours#grouphours) on this calendar.
 
-## Google Keep
+## To-do list
 
-Use this to generate daily to-do lists. You should develop the habit of doing this every day, right before you leave the lab (i.e. plan out your activities for the next day). Then, when you come in the next day, execute this list, checking items off as you go along. This will help you prioritize and stay focused.
+Use [Google Keep](https://keep.google.com) to generate daily to-do lists. You should develop the habit of doing this every day, right before you leave the lab (i.e. plan out your activities for the next day). Google Keep integrates with Google Calendar, so after making the list, place each item into your calendar so that you actually make time for each item. Then, when you come in the next day, execute the list, checking items off as you go along. This will help you prioritize and stay focused. 
 
 ## Remote journal access
 
@@ -36,16 +36,27 @@ All materials generated from your project (including protocols, images, numerica
 {{% /alert %}}
 
 
-## Evernote
+## Project notes
 
 We use [Evernote](https://evernote.com/) to document all *conceptual* aspects of a project including the following items:
 
 - **Meeting notes**: this includes both group and project meetings, and informal discussions with colleagues and advisors
-- **Literature notes**: used to annotate papers that you read and find relevant
+- **Literature notes**: annotate papers that you've read and find relevant
+- **Web clippings**: screenshots, websites, web-based tables, etc.
 - **Presentation notes**: this includes notes you take at conference presentations
 - **Ideas**: any time you have an idea, for example that stemmed from your research activities, such as follow up projects, new research questions, or ideas on how to solve a bottleneck, write them down so you can articulate them and discuss with Leo or other people later!
 
-You should have **one notebook per project**. YOu should also create a `tag` for each of the items listed above. Everytime you jot down something, categorize them by tag. This will help you find the note later on (what good is a notebook if you can't ever find anything?). Get into the habit of writing down something every week, or even every day. Share your project notebook with all project members (including Leo!)
+You should have **one notebook per project**. You should also create a `tag` for each of the items listed above. Everytime you jot down something, categorize them by tag. This will help you find the note later on (what good is a notebook if you can't ever find anything?). Get into the habit of writing down something every week, or even every day. Share your project notebook with all project members (including Leo!)
 
 > Get into the habit of documenting all of your thoughts on paper! **Remember, the only thing between messing things around and science is writing things down!**
 
+
+## Experiments
+
+Each experiment you perform should contain these items:
+
+- protocol (written in Microsoft Word or some text editor that supports tables)
+- raw results (e.g. images, numerical data)
+- scripts (for analyzing the results, if needed)
+
+These items should be stored in one folder with a standardized naming convention: `your initials+experiment number-experiment date-experiment description`. For example, let's say Leo performed his first experiment on January 25th, 2019 on folding DNA origami, then the folder name would be `LC001-190125-origami-folding`. All of your experiments belonging to a project would be stored in that project's `Experiments` sub-folder. This sub-folder can contain experiments performed by you as well as by other researchers participating in the same project. This project folder will therefore live on a sharable, centralized location, such as the group's server. More on this in later section on [organizing your research](/handbook/whatisresearch).
