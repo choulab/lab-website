@@ -14,4 +14,21 @@ menu:
 weight: 70
 ---
 
-TBD
+Always generate a complete protocol before starting an expperiment. You can based yours on this [template](/). A basic protocol should have the following elements:
+
+- Experiment Number (e.g. LC001)
+- Experiment Title (e.g. protein expression)
+- Date
+- A hypothesis (for investigative experiments) or objective (for preparative experiments)
+- A complete list of reagents
+- A complete list of steps
+
+{{% alert note %}}
+Tips
+1. If you have never done this experiment before, chances are you will be missing reagents. Use the protocol to help you gather them.
+2. Use tables instead of text whenever possible. For example, present buffer compositions and reagent preparations in tabular format. Use an Excel template to populate them and copy paste ovder to your text editor.
+{{% /alert %%}}
+
+
+
+
