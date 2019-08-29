@@ -21,7 +21,7 @@ The lab uses a Google Calendar to organize all group activities, such as group m
 
 ## Task management
 
-Use [Trello](https://www.trello.com) to generate to-do lists and plan your schedule. Its free and you can sign-in using a Google Account. You should develop the habit of reviewing your activities on a daily basis. For example, right before you leave the lab, plan out your activities for the next day using Trello. Trello integrates with Google Calendar, so once you have generated your to-do list with due dates, you can use your calendar to know when you need to be doing what. When you have completed items on your to-do list, check the items off as you go along. This will help you prioritize and stay focused. More on using Trello for research [here](/handbook/metadata#todos)
+We currently use [Trello](https://www.trello.com) to visualize our project and generate to-do lists. It is free and you can use your Google Account to sign in. Once set up, you should develop the habit of reviewing to-do's on a regular basis. For example, Leo usually spends the last 20 minutes of the day reviewing and planning his activities for the next day on Trello. Since Trello integrates with Google Calendar, you can use your calendar to schedule your to-do activities for the next day, week, or month. Any time you complete items on your to-do list, move them to the "completed" section as you go along. This will help you prioritize and stay focused. More on using Trello for research [here](/handbook/metadata#todos)
 
 
 ## Documentation
