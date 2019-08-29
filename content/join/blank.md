@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Join the lab"
+title = ""
 subtitle = ""
 
 [design]
@@ -46,6 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<div style="text-align:center"><h1>Join the lab</h1></div>
+
 
 We are always looking for highly creative and driven people to join us. We strive to create a collaborative and supportive environment for research & innovation. We value sharing, communication, and collaboration over secrecy and competition. See also our [mentorship policy](#mentorship) below. If you're interested in joining us, read the following instructions. Hint: if you send a blatantly obvious copypasta email, it will probably be ignored :-)<br><br>
 
