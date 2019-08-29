@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "News"
+title = ""
 subtitle = ""
   
 [design]
@@ -42,6 +42,7 @@ subtitle = ""
  css_class = ""
 +++
 
+<div style="text-align:center"><h1>News</h1></div>
 
 ### Aug 2019
 - Stuti is a recipient of this year's Milligan Graduate Scholarship in IBBME, congrats Stuti!
