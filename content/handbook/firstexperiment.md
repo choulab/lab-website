@@ -27,7 +27,7 @@ Always generate a complete protocol before starting an expperiment. You can base
 Tips
 1. If you have never done this experiment before, chances are you will be missing reagents. Use the protocol to help you gather them.
 2. Use tables instead of text whenever possible. For example, present buffer compositions and reagent preparations in tabular format. Use an Excel template to populate them and copy paste ovder to your text editor.
-{{% /alert %%}}
+{{% /alert %}}
 
 
 
