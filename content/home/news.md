@@ -44,7 +44,7 @@ subtitle = ""
 
 <div style="text-align:center"><h1>News</h1></div>
 
-<br><br>
+<br>
 
 ### Aug 2019
 - Stuti is a recipient of this year's Milligan Graduate Scholarship in IBBME, congrats Stuti!
