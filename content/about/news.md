@@ -62,6 +62,3 @@ subtitle = ""
 
 ### January 2019
 - Leo joins the IBBME Faculty!
-
-
-<a class="twitter-timeline" href="https://twitter.com/leochou0814?ref_src=twsrc%5Etfw">Tweets by leochou0814</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

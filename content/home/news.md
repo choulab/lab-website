@@ -12,7 +12,7 @@ subtitle = ""
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -62,4 +62,3 @@ subtitle = ""
 
 ### January 2019
 - Leo joins the IBBME Faculty!
-
