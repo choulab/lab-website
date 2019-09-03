@@ -14,4 +14,4 @@ menu:
 weight: 30
 ---
 
-To be completed.
+... to be updated ...

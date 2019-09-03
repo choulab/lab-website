@@ -16,8 +16,12 @@ weight: 110
 
 ## Papers
 
+... to be updated ...
+
 ## Talks
+
+... to be updated ...
 
 ## Patents
 
-TBD
+... to be updated ...
