@@ -8,7 +8,7 @@ weight: 9999
 title: Contribute
 date: "2019-08-27T00:00:00Z"
 lastmod: "2019-08-27T00:00:00Z"
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -24,3 +24,18 @@ menu:
 
 TBD
 
+
+---
+title: 
+linktitle: 
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+menu: 
+  handbook:
+    parent: Resources
+    weight: 999
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 999
