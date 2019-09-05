@@ -52,6 +52,7 @@ subtitle = ""
 - The beta version of the lab website is now live!
 
 ### May 2019
+- The lab has been [awarded](https://startupheretoronto.com/partners/uoft/xseed-catalyzing-multidisciplinary-research-at-u-of-t/) an Xseed grant for collaborative work with the Treanor lab to study B cell response to 3D antigen arrays!
 - Leo visits McMaster University to give a BIMR symposium lecture. Thanks to the [Soleymani lab](http://geneticsensing.com/) for hosting
 - Leo visits Aalto University to attend the Nantech 2019 conference
 - The lab has been [awarded](https://mbd.utoronto.ca/news/new-ideas-2019/) the 2019 MbD New Ideas award (1 of 9 labs). We will be working with the Treanor lab to build DNA devices to elucidate B cell signaling for vaccine and regenerative medicine applications

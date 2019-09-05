@@ -38,7 +38,7 @@ If you need something urgent (e.g. same day), you can try to find it on [Medstor
 
 
 ## Receiving items
-After the order has been placed, Leo will move the item record from the ‘request’ tab to the ‘month’ tab in the `Lab Purchasing YYYY` spreadsheet. When you receive the item, do the following:
+After the order has been placed, Leo will move the item record from the ‘request’ tab to the ‘month’ tab in the `Lab Purchasing YYYY` spreadsheet. Items will arrive in RS407. When you receive the item, do the following:
 
 - Place the packing list that comes with the item into the shared lab folder ‘PACKING LIST’. This is required for departmental auditing purposes
 - Use a permanent marker to record the receipt date on the item itself
@@ -56,3 +56,7 @@ When an item has been depleted, and you’re the one throwing it out, do the fol
 - Change its availability box from ‘available’ to ‘unavailable’
 - This will be critical for keeping the lab inventory up to date!!!
 - P.S. the python script will automatically delete any items from the Master Inventory that is marked ‘unavailable’ and >5 years old from purchase date
+
+## Oligonucleotides
+
+Custom oligonucleotides can be ordered via IDT using the lab account. For ssDNA oligonucleotides between 15-90 nts ordered before 4pm, IDT will typically ship next day. Longer oligonucleotides may take up to 1 week. Gene synthesis and plate oligos usually take 1 day. Items will arrive in the Medical Sciences Building (MSB) in front of Room 7308.
