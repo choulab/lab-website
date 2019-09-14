@@ -59,9 +59,14 @@
   parent = "Resources"
 
 [[main]]
+  name = "Gallery"
+  url = "/gallery"
+  weight = 70
+
+[[main]]
   name = "Join"
   url = "/join"
-  weight = 70
+  weight = 999
 
 # [[main]]
 #  name = "Contact"
