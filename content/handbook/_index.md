@@ -32,8 +32,10 @@ Before you start working in the lab, you must complete the following:
 * Submit your signed supervisor-student agreement [form](https://ibbme.utoronto.ca/wp-content/uploads/2019/07/2019-20-supervisor-student-agreement-form-Updated.pdf) to Leo
 * Read this handbook and submit your signed lab agreement [form](/) to Leo
 * Obtain your T-Card (if you're not a current UofT student)
-* Sign up for and complete lab safety training<br><br>
-* Sign the [consent form](http://www.nserc-crsng.gc.ca/onlineservices-servicesenligne/pdf/f100d_e.pdf)
+* Sign up for and complete lab safety training
+* Sign the [HQP consent form](http://www.nserc-crsng.gc.ca/onlineservices-servicesenligne/pdf/f100d_e.pdf) from NSERC (for grant writing purposes)
+
+<br><br>
 
 ## Quick links
 
