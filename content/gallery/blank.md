@@ -45,6 +45,7 @@ subtitle = "Start of the year!"
  
  # CSS class.
  css_class = ""
+
 +++
 
 {{< figure library="true" src="gallery/1909/DSCF1548.jpg" title="The group photo Leo wanted to take" lightbox="true" >}}
