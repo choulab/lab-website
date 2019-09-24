@@ -22,7 +22,7 @@ bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem
 
 interests:
 - DNA nanotechnology
-- Molecular engineering
+- Molecular biology
 - Synthetic biology
 
 education:
@@ -62,5 +62,8 @@ email: "abdulmateen.aderinto@mail.utoronto.ca"
 user_groups:
 - current members
 ---
+Abdulmateen is a member of the Chou lab and a masters student in the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA Nanotechnology, Molecular Biology, Molecular Engineering, and Synthetic Biology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Before joining IBBME in September 2019, Abdulmateen completed his undergraduate degree in Biochemistry at McMaster University in Hamilton, Ontario. Abdulmateen also completed a 4th year independent research project focused on Wnt Signaling in Stem Cell Biology under the supervision of Dr. Bradley Doble in the Stem Cell and Cancer Research Institute (SCC-RI).
+
+When he's not doing science, Abdulmateen enjoys powerlifting, exploring the latest technology, and playing sports (Basketball, Football, Soccer).
