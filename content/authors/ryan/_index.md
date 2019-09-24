@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc candidate
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+bio:  
 
 interests:
 - DNA nanotechnology
-- Molecular engineering
-- Synthetic biology
+- Machine learning
+- Neuroscience
 
 education:
   courses:
@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ryan.lee@mail.utoronto.ca"
+email: "ryan.clee@mail.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -63,4 +63,4 @@ user_groups:
 - current members
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ryan Lee is a PhD candidate at Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, machine learning and neuroscience. <br><br> Before joining IBBME, Ryan completed his undergraduate thesis with Dr. Judith Shedden and Dr. Martin von Mohrenschildt and graduated with a BSc in Biology and Psychology at McMaster University.
