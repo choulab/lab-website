@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BS in Biochemistry
-    institution: University of McMaster
+    institution: McMaster University
     year: 2019
 
 # Social/Academic Networking
