@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Biochemistry
+  - course: BSc in Biochemistry
     institution: McMaster University
     year: 2019
 

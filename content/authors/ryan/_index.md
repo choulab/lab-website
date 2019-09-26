@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Physiology and Biology
+  - course: BSc in Biology and Psychology
     institution: McMaster University
     year: 2019
 
