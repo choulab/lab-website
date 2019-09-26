@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BS in Molecular Biology
+  - course: BSc in Molecular Biology
     institution: University of Toronto
     year: 2019
 
@@ -63,4 +63,8 @@ user_groups:
 - current members
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Stuti is a Masters candidate at the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. Her research interests include molecular biology, cellular signalling, and nanoengineering. 
+
+Before joining her cohort at IBBME, Stuti completed her undergraduate degree at the University of Toronto Mississauga, where she specialized in Molecular Biology and majored in Health Sciences. Her undergraduate thesis investigated the role of myoinhibiting peptides on physiological functions of the kissing bug, *Rhodnius prolixus*.
+
+When Stuti isn't tackling the big questions at the nano level, she can be found practicing henna designs, reading a cliffhanger, or riding her bike.
