@@ -21,9 +21,9 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- DNA nanotechnology
-- Molecular engineering
-- Synthetic biology
+- RNA therapeutics
+- Molecular biology
+- Time relativity
 
 education:
   courses:
@@ -63,4 +63,8 @@ user_groups:
 - current members
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Travis is a Masters candidate at the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, RNA therapeutics, molecular biology, and physiology.<br><br>
+
+Prior to becoming a member of Dr. Chou’s lab at IBBME, Travis completed his undergraduate degree in Biology with a concentration in Health Sciences at Carleton University. He completed his undergraduate thesis under Dr. Adrian Chan and Dr. Iain McKinnell under an NSERC Engage Research Assistantship. Here he developed an algorithm that automatically detects poling strokes and turns from Inertial Measurement Unit (IMU) data collected in the sport of Para Ice Hockey. During his time at Carleton, Travis was also a varsity athlete for the Ravens Men’s Hockey team, where he earned an OUA Bronze Medal and the George Hunter Academic Award.<br><br>
+
+During life outside the nucleus, Travis loves playing and watching sports, being a foodie, binge watching Netflix with ‘Sensations – Vanilla Chocolate Temptation ice cream’, and contemplating the theory of time relativity.
