@@ -45,9 +45,6 @@ subtitle = ""
 <div style="text-align:center"><h1>News</h1></div>
 
 <br>
-### Nov 2019
-- Chou lab is now part of the Precision Medicine ([PRiME](https://www.prime.utoronto.ca/)) initative
-- Construction of our new lab space has finally started after >6 months of planning (and >1 year by the admin staff). Excited for its grand opening next year!
 
 ### Aug 2019
 - Stuti is a recipient of this year's Milligan Graduate Scholarship in IBBME, congrats Stuti!
