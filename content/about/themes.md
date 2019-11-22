@@ -1,0 +1,60 @@
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
+
+title = ""
+subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
+  
+  # Background image.
+  # image = "image.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+<div style="text-align:center"><h1>Themes</h1></div>
+
+<h3>DNA Recorders</h3>
+A major challenge in bio-medicine is to decipher the complex network of biomolecular interactions that give rise to a physiological or disease phenotype. These interactions are complex because they vary spatiotemporally across length scales (e.g., molecules, cells, and tissues), and involve a staggering diversity of biomolecules. We are interested in developing technologies that enable these molecular interactions (as well as their functional consequences!) to be profiled in a sensitive, quantitative, and high-throughput manner. Outcome from this research will help us better understand the molecular "interactome" within cells and tissues, and lead to the discovery of novel biomarkers for the detection and treatment of diseases.
+
+<h3>DNA Computers</h3>
+Cells use self-assembly interactions between biomolecules to sense, compute, and integrate information about their environment. Inspired by this, we are developing DNA-based computers capable of complex molecular computation. Our approach is unique in that we integrate concepts from DNA nanotechnology, synthetic biology, materials chemistry, and device fabrication in an effort to make computation faster, more scalable, and more accurate. Compared to silicon circuits, molecular computers have the advantage that they are functional in wet environ ments, directly interact with biomolecules and cells as inputs, and can operate without a power supply. We are interested in developing these capabilities for diagnostic and biomanufacturing applications.
+
+<h3>DNA Actuators</h3>
+The dynamic self-organization of DNA and proteins within living cells drive the machineries that enable diverse cellular processes. Using the principles of DNA nanotechnology and synthetic biology, we aim to create artificial self-assembling machines that can perturb these cellular machineries. By creating artificial nanostructures with precise shapes and dynamics, we can generate machines that perform mechanical and biochemical tasks for controlling cell fate. Ultimately, we hope our artificial molecular machines will rival the functional complexity of naturally-exiting molecular machines for applications as next-generation therapeutics.
+
