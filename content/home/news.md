@@ -50,6 +50,9 @@ subtitle = ""
 - The lab is now part of UofT's Precision Medicine ([PRiME](https://prime.utoronto.ca)) initiative. Looking forward to being part of the community
 - Construction for our new lab space has finally started after >6 months of planning (>1 yr on the admin side). Can't wait for the grand opening next year!
 
+### Nov 2019
+- Leo's paper on nucleic-acid programmable in vitro synthetic gene circuits is now published on [ACS Synthetic Biology](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.9b00242)
+
 ### Aug 2019
 - Stuti is a recipient of this year's Milligan Graduate Scholarship in IBBME, congrats Stuti!
 - Welcome Stuti, Travis, Abdulmateen, and Ryan (aka team S.T.A.R.) to the lab!
