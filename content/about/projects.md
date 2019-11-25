@@ -86,9 +86,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Our current projects revolve around the following two themes:<br>
-
-- technologies to explore, bind, and re-wire cell surface receptors and downstream signaling pathways
-- cell-free molecular computing technologies for portable molecular diagnostics and information processing
-
-Below you will find a list of our current and past projects. And yes, Leo enjoys coming up with cryptic project code names, a habit he picked up from his postdoc days :-)
+Below you will find a list of our current and past projects. These projects revolve around the themes listed above. And yes, Leo enjoys coming up with cryptic project code names, a habit he picked up from his postdoc days :-)
