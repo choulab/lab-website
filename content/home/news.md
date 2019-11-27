@@ -47,7 +47,7 @@ subtitle = ""
 <br>
 
 ### Nov 2019
-- Our [CFI-JELF](https://www.innovation.ca/awards/john-r-evans-leaders-fund) application has just been approved! This fund will support our purchase of lab equipment. 
+- Our application for a [CFI-JELF](https://www.innovation.ca/awards/john-r-evans-leaders-fund) fund has been approved! This fund will support the purchase of major equipment for our lab. 
 - The lab is now part of UofT's Precision Medicine ([PRiME](https://prime.utoronto.ca)) initiative. Looking forward to being part of the community
 - Construction for our new lab space has finally started after >6 months of planning (>1 yr on the admin side). Can't wait for the grand opening next year!
 
