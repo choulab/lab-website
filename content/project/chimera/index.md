@@ -4,7 +4,7 @@
 title: "Chimera"
 summary: ""
 authors: []
-tags: ["past", "computing"]
+tags: ["active", "encoding"]
 categories: []
 date: 2019-08-25T18:33:36-04:00
 

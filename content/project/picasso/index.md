@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "BubbleSort"
+title: "picasso"
 summary: ""
 authors: []
-tags: ["past", "computing"]
+tags: ["active", "computing"]
 categories: []
 date: 2019-08-25T18:33:36-04:00
 
