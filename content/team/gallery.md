@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,12 +47,20 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="/photos/20190913_133222012.jpg" title="Sept 2019 - just received our brand new pipettes (they have names)!" lightbox= "true" >}}
-{{< figure src="/photos/20190926_155111.jpg" title="Sept 2019 - setting up the incubator shaker" lightbox= "true" >}}
-{{< figure src="/photos/20191001_114922.jpg" title="Oct 2019 - Abdulmateen shaking things up" lightbox= "true" >}}
-{{< figure src="/photos/20191001_114927.jpg" title="Oct 2019 - Stuti shaking things up" lightbox= "true" >}}
-{{< figure src="/photos/20191114_174950.jpg" title="Nov 2019 - Our new lab construction has begun! " lightbox= "true" >}}
-{{< figure src="/photos/20191128_211413.jpg" title="Nov 2019 - First lab outing, Boardgame night @ Snakes & Lattes!" lightbox= "true" >}}
-{{< figure src="/photos/20191209_081525.jpg" title="Dec 2019 - Deck the halls - amazing job, esp. Ryan's hand-drawn Grinch" lightbox= "true">}}
-{{< figure src="/photos/20200214_142316.jpg" title="Feb 2020 - Working hard, or hardly working?" lightbox= "true" >}}
-{{< figure src="/photos/20200227_181704146.jpg" title="Feb 2020 - Birthday celebration @ the new student lounge. P.s. Almond Butterfly cupcakes!" lightbox= "true" >}}
+{{< figure src="photos/20200227_181704146.jpg" title="Feb 2020 - Birthday celebration @ the new student lounge. P.s. Almond Butterfly cupcakes!" lightbox= "true" >}}
+
+{{< figure src="photos/20200214_142316.jpg" title="Feb 2020 - Working hard, or hardly working?" lightbox= "true" >}}
+
+{{< figure src="photos/20191209_081525.jpg" title="Dec 2019 - Deck the halls - amazing job, esp. Ryan's hand-drawn Grinch" lightbox= "true">}}
+
+{{< figure src="photos/20191128_211413.jpg" title="Nov 2019 - First lab outing, Boardgame night @ Snakes & Lattes!" lightbox= "true" >}}
+
+{{< figure src="photos/20191114_174950.jpg" title="Nov 2019 - Our new lab construction has begun! " lightbox= "true" >}}
+
+{{< figure src="photos/20191001_114927.jpg" title="Oct 2019 - Stuti shaking things up" lightbox= "true" >}}
+
+{{< figure src="photos/20191001_114922.jpg" title="Oct 2019 - Abdulmateen shaking things up" lightbox= "true" >}}
+
+{{< figure src="photos/20190926_155111.jpg" title="Sept 2019 - setting up the incubator shaker" lightbox= "true" >}}
+
+{{< figure src="photos/20190913_133222012.jpg" title="Sept 2019 - just received our brand new pipettes (they have names)!" lightbox= "true" >}}
