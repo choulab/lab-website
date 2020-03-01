@@ -25,7 +25,7 @@ height = "500px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
-  cta_url = "https://choulab.netlify.com/about#projects"
+  cta_url = "/about#projects"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
@@ -39,7 +39,7 @@ height = "500px"
   overlay_filter = 0.2 # Darken the image. Value in range 0-1.
 
   cta_label = "Visit Us"
-  cta_url = "https://goo.gl/maps/vtSfkc8fMov3mMZG9"
+  cta_url = "/contact"
   cta_icon_pack = "fas"
   cta_icon = "map-marked"
 
@@ -53,7 +53,7 @@ height = "500px"
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "Learn More"
-  cta_url = "https://choulab.netlify.com/about#projects"
+  cta_url = "/about#projects"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
@@ -81,7 +81,7 @@ height = "500px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Join Us"
-  cta_url = "https://choulab.netlify.com/join"
+  cta_url = "/join"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
