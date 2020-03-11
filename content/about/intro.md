@@ -47,9 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="text-align:center"><h1>Overview: Biomolecular Nanotechnology</h1></div>
+<div style="text-align:center"><h1>Overview</h1></div>
 
-Our lab explores a synthetic biology approach for nanotechnology design. Using the tools of chemistry, molecular engineering, and computational design, we engineer proteins and nucleic acids to behave and assemble according to user-specified rules and logics. We further use these synthetic biomolecules to develop artificial molecular machines - systems of cooperating molecules - including molecular barcodes, timers, rulers, printers, and computers. These engineered devices offer new ways to probe and manipulate biological systems with improved precision. We are interested in applying these technologies for medical applications, such as for biomarker discovery, diagnostics, and therapeutics. To achieve these goals, our lab employs a variety of skillsets and techniques, and combines experimentation with computation. Students in the lab gain a broad spectrum of skills including molecular techniques, biochemistry, imaging, coding, device fabrication, and much more.<br>
+## Biomolecular Nanotechnology
+
+Our lab takes a synthetic biology approach to explore nanotechnology design. Using the tools of chemistry, molecular engineering, and computational design, we engineer proteins and nucleic acids to behave and assemble according to user-specified rules and logics.These modified biomolecules are then used to manufacture artificial molecular machines - functional systems of cooperating molecules - such as molecular barcodes, timers, rulers, printers, and computers. We are interested in interfacing these molecular tools with biological systems for medical applications, such as for biomarker discovery, diagnostics, and therapeutics. Our lab employs a variety of skillsets and techniques, and combines experimentation with computation. Students in the lab gain a broad spectrum of skills including molecular techniques, biochemistry, imaging, coding, device fabrication, and much more.<br>
 
 We are proud to be a multidisciplinary group, and welcome applicants from diverse fields including but not limited to biology, chemistry, physics, engineering, and computer science. All we require is that you're driven, innovative, self-motivated, and curious with a passion. We also believe that an academic career should not be the only reason to pursue graduate research, and we actively work on  projects that can lead to innovative careers including start-up and spin-off ventures. If you are interested in working with us, you can find the [application process](/join) here!<br>
 
