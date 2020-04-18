@@ -45,6 +45,9 @@ subtitle = ""
 <div style="text-align:center"><h1>News</h1></div>
 
 <br>
+### Apr 2020
+- The lab joins the Task Force launched by PRiME to help combat COVID-19. Read about what the task force plans to do [here](https://www.utoronto.ca/news/u-t-precision-medicine-initiative-launches-task-force-fight-covid-19)
+- The lab is one of 25 UofT labs to be funded by the Toronto COVID-19 Action Initiative. We will be using this fund to develop better tools for SARS-CoV-2 detection.
 
 ### Nov 2019
 <!--- Our application for a [CFI-JELF](https://www.innovation.ca/awards/john-r-evans-leaders-fund) fund has been approved! This fund will support the purchase of major equipment for our lab. -->
