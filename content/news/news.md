@@ -45,6 +45,9 @@ subtitle = ""
 <div style="text-align:center"><h1>News</h1></div>
 
 <br>
+### May 2020
+- The lab just received approval for our NSERC Discovery Grant!
+
 ### Apr 2020
 - The lab joins the Task Force launched by PRiME to help combat COVID-19. Read about what the task force plans to do [here](https://www.utoronto.ca/news/u-t-precision-medicine-initiative-launches-task-force-fight-covid-19)
 - The lab is one of 31 UofT labs to be funded by the Toronto COVID-19 Action Initiative. We will be using this fund to develop better tools for SARS-CoV-2 detection. Read the coverage [here](https://www.utoronto.ca/news/u-t-support-31-high-impact-coronavirus-research-projects-through-toronto-covid-19-action-fund?utm_source=The+Bulletin+Brief&utm_campaign=00a59609d4-EMAIL_CAMPAIGN_2018_06_13_COPY_01&utm_medium=email&utm_term=0_b5083c0488-00a59609d4-110170115)
