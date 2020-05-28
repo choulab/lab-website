@@ -46,6 +46,7 @@ subtitle = ""
 
 <br>
 ### 2020
+05/20: The lab was just awarded a NSERC Alliance COVID-19 Grant to develop novel diagnostic tools to detect the SARS-CoV-2 virus! 
 
 04/27: The lab just received approval for our first NSERC Discovery Grant!
 
