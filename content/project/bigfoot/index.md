@@ -4,7 +4,7 @@
 title: "Bigfoot"
 summary: ""
 authors: []
-tags: ["active", "receptor"]
+tags: ["receptor", "sandbox"]
 categories: []
 date: 2019-08-25T17:48:29-04:00
 

@@ -4,7 +4,7 @@
 title: "Mist"
 summary: ""
 authors: []
-tags: ["active", "computing"]
+tags: ["sandbox", "computing"]
 categories: []
 date: 2019-08-25T17:48:13-04:00
 

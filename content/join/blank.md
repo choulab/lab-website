@@ -59,11 +59,60 @@ If you are interested in our research and you have a recent PhD degree in chemis
 
 ## Graduate students
 
-If you are interested in joining the lab, please send Leo an email explaining your interests.  Please also include digital copies of your up-to-date transcript and CV. Also, have a look at the University of Toronto [IBBME graduate program](https://ibbme.utoronto.ca/prospective-students/doctor-of-philosophy-phd/) to familiarize yourself about the application process.<br><br>
+If you are interested in joining the lab, please send Leo an email explaining your interests.  Please also include digital copies of your up-to-date transcript and CV. Also, have a look at the University of Toronto [IBBME graduate program](https://ibbme.utoronto.ca/prospective-students/doctor-of-philosophy-phd/) to familiarize yourself about the application process. Below are answers to some FAQs that I've received from students in the past:
+
+<details closed>
+<summary>How do I connect with professors? (AKA how do I find a supervisor?)</summary>
+
+>Just email us. Introduce yourself and the reason you are reaching out. Be specific. Attach your CV and updated academic transcript as part of your email. Show passion and why you will be an asset to the team. Professional etiquette is appreciated (Hi or Hello or Dear, not Hey, Yo...etc.). Showing maturity and professionalism goes a long way...
+
+</details>
+
+<details closed>
+<summary>Professors won’t answer my emails, what should I do?</summary>
+
+>Email us again. 80% of the time the lack of response is simply because you caught us at a bad time. IF you have followed up again and still no response, it's probably a bad fit either way.
+
+</details>
+
+<details closed>
+<summary>How do I build my network?</summary>
+
+>Secret to networking is to not network. Reach out because you are geniuinely interested in a topic, story, or thing. Over time, you will surround yourself with colleagues with similar interests and goals. They become your "network".
+
+</details>
+
+<details closed>
+<summary>How much do grades matter for getting into graduate school at IBBME?</summary>
+    
+>There is a departmental minimum. If you meet the requirement, it depends on the PI. If you don't, it depends on the PI. So ya, it's up to the PI.
+
+</details>
+
+<details closed>
+<summary>How can I tell which professor is still taking students?</summary>
+    
+>Most of the time, you can only find out by emailing and inquiring about positions.
+
+</details>
+
+<details closed>
+<summary>What careers do students pursue after graduate school?</summary>
+    
+>It varies. To name a few: professional scientists and engineers at biomedical companies, biotechs, national labs, hospitals... etc; Consulting (both tech-focused and management), venture capital firms, lawyers (e.g. IP), lab managers, professors, entrepreneurs (start-up companies), policy makers (e.g. government, shaping science policy), communications, journalism, scientific outreach, scientic branding, and many others. 
+
+</details>
+
+<details closed>
+<summary>What background do I need to join biomedical engineering?</summary>
+
+>Any background. So far, we have taken on students from engineering, molecular biology, biochemistry, and psychology. We will gladly consider other disciplines, e.g. chemistry, computer science, physics, math, etc. What's important to us is that you are passionate and self-driven.
+
+</details><br>
 
 ## Undergraduate students
 
-We have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/)-funded projects. Our lab is also happy to mentor student teams wishing to participate in [BIOMOD](http://biomod.net/), an annual, international DNA nanotechnology design competition. If you are interested in any of these opportunities, send Leo an email with a brief description of your interests. Please attach your transcript and CV in the email.<br><br>
+We often have openings for [USRA](https://ibbme.utoronto.ca/prospective-students/undergraduate-research-opportunities/)-funded projects. Email us to inquire. Our lab is also happy to mentor student teams wishing to participate in [BIOMOD](http://biomod.net/), an annual, international DNA nanotechnology design competition. If you are interested in organizing a team, send Leo an email.<br><br>
 
 ## <a name="mentorship"></a>Mentorship policy
 
