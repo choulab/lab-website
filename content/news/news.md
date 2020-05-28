@@ -46,16 +46,16 @@ subtitle = ""
 
 <br>
 ### 2020
-05-20: The lab was just awarded a NSERC Alliance COVID-19 Grant to develop novel diagnostic tools to detect the SARS-CoV-2 virus! 
+05-20: The lab was awarded an NSERC Alliance COVID-19 Grant to develop diagnostic tools for SARS-CoV-2 detection 
 
 04-27: The lab just received approval for our first NSERC Discovery Grant!
 
 04-17: The lab joins the Task Force launched by PRiME to help combat COVID-19. Read about what the task force plans to do [here](https://www.utoronto.ca/news/u-t-precision-medicine-initiative-launches-task-force-fight-covid-19)
 
-04-01: The lab is one of 31 UofT labs to be funded by the Toronto COVID-19 Action Initiative. We will be using this fund to develop better tools for SARS-CoV-2 detection. Read the coverage [here](https://www.utoronto.ca/news/u-t-support-31-high-impact-coronavirus-research-projects-through-toronto-covid-19-action-fund?utm_source=The+Bulletin+Brief&utm_campaign=00a59609d4-EMAIL_CAMPAIGN_2018_06_13_COPY_01&utm_medium=email&utm_term=0_b5083c0488-00a59609d4-110170115)
+04-01: The lab is 1 of 31 labs [funded](https://www.utoronto.ca/news/u-t-support-31-high-impact-coronavirus-research-projects-through-toronto-covid-19-action-fund?utm_source=The+Bulletin+Brief&utm_campaign=00a59609d4-EMAIL_CAMPAIGN_2018_06_13_COPY_01&utm_medium=email&utm_term=0_b5083c0488-00a59609d4-110170115) by UofT's COVID-19 Action Initiative. We will be using this fund to develop better tools for SARS-CoV-2 detection. 
 
 ### 2019
-11-28: Our application for a [CFI-JELF](https://www.innovation.ca/awards/john-r-evans-leaders-fund) fund has been approved! This fund will support the purchase of major equipment for our lab. -->
+11-28: Our application for a [CFI-JELF](https://www.innovation.ca/awards/john-r-evans-leaders-fund) fund has been approved! This fund will support the purchase of major equipment for our lab
 
 11-04: The lab is now part of UofT's Precision Medicine ([PRiME](https://prime.utoronto.ca)) initiative. Looking forward to being part of the community
 
