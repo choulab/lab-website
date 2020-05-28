@@ -46,7 +46,7 @@ subtitle = ""
 
 <br>
 ### 2020
-05-20: The lab was awarded an NSERC Alliance COVID-19 Grant to develop diagnostic tools for SARS-CoV-2 detection 
+05-20: The lab was [awarded](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/COVID-19_eng.asp) an NSERC Alliance COVID-19 Grant to develop diagnostic tools for SARS-CoV-2 detection 
 
 04-27: The lab just received approval for our first NSERC Discovery Grant!
 
