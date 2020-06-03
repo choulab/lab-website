@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="photos/20200514_kickoffmeeting.png" title="May 2020 - Zoom lab meetings during COVID-19 lockdown. Welcome to our three summer students Ariele, Justin, and Jianbang, and thesis student Emily!" lightbox= "true" >}}
+{{< figure src="photos/20200514_kickoffmeeting.png" title="May 2020 - Virtual lab meeting during COVID-19 lockdown. Using Discord because Zoom is too mainstream. Also, big welcome to our three summer students Ariele, Justin, and Jianbang, and thesis student Emily!" lightbox= "true" >}}
 
 {{< figure src="photos/20200227_181704146.jpg" title="Feb 2020 - Birthday celebration @ the new student lounge. P.s. Almond Butterfly cupcakes!" lightbox= "true" >}}
 
