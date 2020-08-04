@@ -14,8 +14,8 @@ role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Biomaterials and Biomedical Engineering
-  url: "https://www.ibbme.utoronto.ca"
+- name: Institute of Biomedical Engineering
+  url: "https://discover.bme.utoronto.ca"
 - name: Medicine by Design
   url: "https://mbd.utoronto.ca/"
 - name: University of Toronto
@@ -72,4 +72,4 @@ user_groups:
 
 Leo Chou is an assistant professor in the Institute of Biomaterials and Biomedical Engineering at University of Toronto, and one of the principal investigators at Medicine by Design, a Canada First Research Excellence Fund (CFREF)-supported initiative. His research interests include DNA nanotechnology, molecular engineering, and synthetic biology. His lab is developing artificial, self-assembling molecular devices for biomedical applications, including for biomarker discovery, diagnostics, and therapeutics.
 
-Before joining the IBBME faculty in 2019, Leo worked at the Dana-Farber Cancer Institute and at the Wyss Institute of Biological Engineering at Harvard University, in Boston, Massachusetts with the support of a Banting Postdoctoral Fellowship. He completed both his PhD degree (IBBME) and undergraduate degree (Engineering Science) at the University of Toronto. 
+Before joining the IBBME faculty in 2019, Leo worked at the Dana-Farber Cancer Institute and at the Wyss Institute of Biological Engineering at Harvard University, in Boston, Massachusetts with the support of a Banting Postdoctoral Fellowship. He completed both his PhD degree (BME) and undergraduate degree (Engineering Science) at the University of Toronto. 
