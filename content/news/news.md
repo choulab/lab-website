@@ -46,6 +46,10 @@ subtitle = ""
 
 <br>
 ### 2020:
+* 08-21 Eric Tseng joins the lab as direct-entry PhD student. Welcome Eric!
+
+* 07-29 The lab was awarded a MbD New Ideas grant to explore RNA transfer in stem cell transplants in collaboration with the Weaver, Lefebvre, and Shoichet labs!
+
 * 05-20 The lab was [awarded](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/COVID-19_eng.asp) an NSERC Alliance COVID-19 Grant to develop diagnostic tools for SARS-CoV-2 detection
 
 * 05-09 Ariel, Justin and Jianbang joins us for "virtual" summer research internships. They will be working with Ryan on computational nucleic acid design for molecular computing and FISHing. Welcome all!
