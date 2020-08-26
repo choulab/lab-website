@@ -46,6 +46,12 @@ subtitle = ""
 
 <br>
 ### 2020:
+* 08-26 The lab has been approved for CFI funding. See news article [here](https://www.utoronto.ca/news/u-t-experts-receive-95-million-funding-research-infrastructure) 
+
+* 08-25 Just got approval to move into our newly renovated lab space! Photos to follow. Stay tuned!
+
+* 08-23 Sachin Davis joins the lab as MASc student. Welcome Sachin!
+ 
 * 08-21 Eric Tseng joins the lab as direct-entry PhD student. Welcome Eric!
 
 * 07-29 The lab was awarded a MbD New Ideas grant to explore RNA transfer in stem cell transplants in collaboration with the Weaver, Lefebvre, and Shoichet labs!
