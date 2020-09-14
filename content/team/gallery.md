@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
+{{< figure src="photos/20200914_labsetup.jpg" title="Sep 2020 - Our brand-new lab space is almost complete - very excited for all the students to make use of this space!" lightbox= "true" >}}
+
 {{< figure src="photos/20200514_discordkickoff.jpg" title="May 2020 - Virtual lab meeting during COVID-19 lockdown. Using Discord because we're too hipster for Zoom. Also, big welcome to our three summer students Ariele, Justin, and Jianbang, and thesis student Emily!" lightbox= "true" >}}
 
 {{< figure src="photos/20200227_181704146.jpg" title="Feb 2020 - Birthday celebration @ the new student lounge. P.s. Almond Butterfly cupcakes!" lightbox= "true" >}}

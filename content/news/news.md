@@ -46,6 +46,8 @@ subtitle = ""
 
 <br>
 ### 2020:
+* 09-14 After 16 months of waiting (!), our brand-new lab space is finally operational. Check out a photo [here](/team/)!
+
 * 08-26 The lab has been approved for CFI funding. See news article [here](https://www.utoronto.ca/news/u-t-experts-receive-95-million-funding-research-infrastructure) 
 
 * 08-25 Just got approval to move into our newly renovated lab space! Photos to follow. Stay tuned!

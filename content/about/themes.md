@@ -47,16 +47,18 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="text-align:center"><h1>Themes</h1></div>
+<div style="text-align:center"><h1>Research Areas:</h1></div>
 
-The overarching question in our lab is to understand how functions in biological systems emerge from molecular self-organization. Currently, we study this in the context of membrane receptor signaling. These receptors represent the gateways by which cells sense their outside world and regulate important cell decisions such as replication, differentiation, and fate. We are interested in how these receptors self-organize to sense and integrate external signals in order to mediate these intracellular processes. To this end, we create molecular and nanoscale technologies that allow us to study and manipulate membrane receptor interactions. Projects in the lab fall into one of three categories:
- 
-<h3>Molecular Recording</h3>
+Cell-type diversity and cell-cell interactions underlie the formation of multicellular tissues and diseases such as cancer. These interactions invovlve both soluble signaling and physical contacts between cells, and together form a 'signaling circuit' that determines tissue-level behaviors. Many emerging cancer drugs, such as immune checkpoint inhibitors and CAR-T cells, are designed to disrupt specific nodes of the signaling circuit. Yet these drugs currently only work in a fraction of patients, suggesting that they are not targeting the most critical signaling nodes in the circuit, and/or that there exists redundant nodes which remain untargeted. Deciphering the nature of this circuit is the first and foremost challenge towards precision and personalized medicine.
+
+The field of DNA nanotechnology has developed a suite of programmable tools for bottom-up molecular barcoding, sensing, and nanofabrication. The current focus of our lab is to use these tools for precise, multiplexed, and spatially resolved cellular analysis and manipulation. Ultimately, this will allow us to build predictive models of drug resistance and rationally designed drugs. Specific projects are detailed below:
+
+<h3>Multi-receptor-ligand interactions at single-cell resolution</h3>
 A major challenge in bio-medicine is to decipher the complex network of biomolecular interactions that give rise to a physiological or disease phenotype. These interactions are complex because they vary spatiotemporally across length scales (e.g., molecules, cells, and tissues), and involve a staggering diversity of biomolecules. We are interested in developing technologies that enable these molecular interactions (as well as their functional consequences!) to be profiled in a sensitive, quantitative, and high-throughput manner. Outcome from this research will help us better understand the molecular "interactome" within cells and tissues, and lead to the discovery of novel biomarkers for the detection and treatment of diseases.
 
-<h3>Molecular Computing</h3>
+<h3>Mapping cell states and interactions at single-cell resolution</h3>
 Cells use self-assembly interactions between biomolecules to sense, compute, and integrate information about their environment. Inspired by this, we are developing DNA and protein-based computers capable of complex computation. Our approach integrates concepts from DNA nanotechnology, synthetic biology, materials chemistry, and device fabrication in an effort to make computation faster, more scalable, and more accurate. Compared to silicon circuits, these molecular computers have the advantage that they can operate in wet environments, they can directly use biomolecules and cells as inputs, and they do not need a power supply to function. We are interested in developing these capabilities for sensing and biomanufacturing applications.
 
-<h3>Molecular Actuation</h3>
+<h3>Enabling molecular programming for single-cell analysis</h3>
 Using the principles of synthetic biology and the tools of protein engineering and DNA nantoechnology, we aim to create artificial self-assembling machines that can perturb endogenous cellular machineries. By creating artificial nanostructures with precise shapes and dynamics, we can generate machines that perform mechanical and biochemical tasks for controlling cell fate. Ultimately, we hope our artificial molecular machines will rival the functional complexity of naturally-existing molecular machines for applications as next-generation therapeutics.
 
