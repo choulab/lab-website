@@ -49,7 +49,7 @@ subtitle = ""
 
 <div style="text-align:center"><h1>Overview</h1></div>
  
-Our lab uses the tools of chemistry, molecular biology, and computational design to engineer proteins and nucleic acids as self-assembling nanoscale devices. Such devices include molecular barcodes for labeling, timers for kinetic analysis, rulers for measuring distances, printers for molecular manufacturing, and computers for multi-signal processing. Through the application of these tools, our goal is to define the cell-types, cell-states, and cell-cell interactions that underlie the dynamics of disease proression and drug resistance.
+Our lab uses the tools of chemistry, molecular biology, and computational design to engineer proteins and nucleic acids as self-assembling nanoscale devices. Such devices include molecular barcodes for labeling, timers for kinetic analysis, rulers for measuring distances, printers for molecular manufacturing, and computers for multi-signal processing. Through the application of these tools, our goal is to define the cell-types, cell-states, and cell-cell interactions that underlie the dynamics of disease progression and drug resistance.
 
 Our lab employs a variety of skillsets and techniques, and combines experimentation with computation. Students in the lab gain a broad spectrum of skills including molecular techniques, biochemistry, imaging, coding, device fabrication, and much more.<br>
 
