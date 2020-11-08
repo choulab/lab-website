@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Travis Douglas
+name: Sachin Davis
 
 # Username (this should match the folder name)
 authors:
-- travis
+- sachin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate
+role: MASc candidate 
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,15 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- RNA therapeutics
-- Molecular biology
-- Time relativity
+- RNA imaging
+- Machine learning
+- Spatial transcriptomics
 
 education:
   courses:
-  - course: BS in Molecular Biology
+  - course: BHSc in Biomedical Discovery \&\ Commercialization
     institution: University of Toronto
-    year: 2019
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -55,16 +55,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "travis.douglas@mail.utoronto.ca"
+email: "sachin.davis@mail.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - current members
 ---
-
-Travis is a PhD candidate at the Institute of Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, RNA therapeutics, molecular biology, and physiology.<br><br>
-
-Prior to becoming a member of Dr. Chou’s lab at BME, Travis completed his undergraduate degree in Biology with a concentration in Health Sciences at Carleton University. He completed his undergraduate thesis under Dr. Adrian Chan and Dr. Iain McKinnell under an NSERC Engage Research Assistantship. Here he developed an algorithm that automatically detects poling strokes and turns from Inertial Measurement Unit (IMU) data collected in the sport of Para Ice Hockey. During his time at Carleton, Travis was also a varsity athlete for the Ravens Men’s Hockey team, where he earned an OUA Bronze Medal and the George Hunter Academic Award.<br><br>
-
-During life outside the nucleus, Travis loves playing and watching sports, being a foodie, binge watching Netflix with ‘Sensations – Vanilla Chocolate Temptation ice cream’, and contemplating the theory of time relativity.
