@@ -45,7 +45,14 @@ subtitle = ""
 <div style="text-align:center"><h1>News</h1></div>
 
 <br>
+### 2021:
+* 02-26 First lab social of the year, it's going to be virtual drinks & games night!
+
+* 01-08 Ian joins the lab as a MITACS Accelerate funded Postdoc. Welcome Ian!
+
 ### 2020:
+* 11-01 Congrats to Travis and Ryan both for passing their PhD qualifiers in flying colors.
+
 * 09-14 After 16 months of waiting (!), our brand-new lab space is finally operational. Check out a photo [here](/team/)!
 
 * 08-26 The lab has been approved for CFI funding. See news article [here](https://www.utoronto.ca/news/u-t-experts-receive-95-million-funding-research-infrastructure) 
