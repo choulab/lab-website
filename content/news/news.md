@@ -46,6 +46,16 @@ subtitle = ""
 
 <br>
 ### 2021:
+* 07-22 Wendy was awarded a PRiME Postdoctoral Fellowship. Congrats Wendy!
+
+* 07-08 The lab receives the Connaught New Researcher Award!
+
+* 07-01 Wendy joins the lab as a postdoc. Welcome Wendy!
+
+* 06-29 Eric was awarded the Paul STARITA Graduate Student Fellowships from the Faculty of Medicine. Congrats Eric!
+
+* 04-01 Eric was awarded a CIHR CGS-M award. Congrats Eric!
+ 
 * 02-26 First lab social of the year, it's going to be virtual drinks & games night!
 
 * 01-08 Ian joins the lab as a MITACS Accelerate funded Postdoc. Welcome Ian!
