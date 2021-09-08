@@ -46,6 +46,8 @@ subtitle = ""
 
 <br>
 ### 2021:
+* 09-08 Meghan and Shana joins the lab as Direct-Entry PhD students. Welcome Meghan and Shana!
+
 * 07-22 Wendy was awarded a PRiME Postdoctoral Fellowship. Congrats Wendy!
 
 * 07-08 The lab receives the Connaught New Researcher Award!
