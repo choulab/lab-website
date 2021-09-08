@@ -46,6 +46,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+{{< figure src="photos/20210826_labbbq01.jpg" title="Aug 2021 - Lab BBQ at Hanlan's Point, Center Island. Weather was amazing!!" lightbox= "true" >}}
+
+{{< figure src="photos/20210514_gamenight01.jpg" title="May 2021 - Virtual game night in the COVID era" lightbox= "true" >}}
+
+{{< figure src="photos/20210514_gamenight02.jpg" title="May 2021 - Virtual game night in the COVID era" lightbox= "true" >}}
 
 {{< figure src="photos/20200914_labsetup.jpg" title="Sep 2020 - Our brand-new lab space is almost complete - very excited for all the students to make use of this space!" lightbox= "true" >}}
 
