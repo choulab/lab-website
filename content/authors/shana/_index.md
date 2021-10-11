@@ -33,9 +33,11 @@ interests:
 # education
 # need at least one bullet
 # you can add more bullets as needed
-education: Western University
-  courses: BESc Chemical Engineering
-    year: 2021
+education: 
+  courses: 
+    - course: BESc Chemical Engineering
+      institution: Western University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BHSc in Biomedical Discovery \&\ Commercialization
-    institution: University of Toronto
+    institution: McMaster University
     year: 2020
 
 # Social/Academic Networking
