@@ -42,7 +42,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="text-align:center"><h1>News</h1></div>
+<div style="text-align:center"><h1>Latest News</h1></div>
 
 <br>
 ### 2021:

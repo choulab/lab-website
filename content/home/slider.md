@@ -16,7 +16,7 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "DNA nanotechnology"
+  title = "Chou Lab at the University of Toronto"
   content = "We program DNA to create nanoscale devices that help us manipulate and dissect biological systems<br>(Image courtesy of Dr. Rasmus Sorensen)"
   align = "left"
 
