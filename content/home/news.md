@@ -42,10 +42,12 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="text-align:center"><h1>Latest News</h1></div>
+<div style="text-align:center"><h1>Latest News & Updates:</h1></div>
 
 <br>
 ### 2021:
+* 10-22 Eric passed his PhD qualifier. Congrats Eric!
+
 * 09-08 Meghan and Shana joins the lab as Direct-Entry PhD students. Welcome Meghan and Shana!
 
 * 08-28 We bid goodbye to Hossen and Jason, our two summer students. Good luck with the new semester
