@@ -46,6 +46,8 @@ subtitle = ""
 
 <br>
 ### 2021:
+* 11-01 A review paper on interfacing DNA nanotechnology with the immune system by Eric, Wendy, and Travis was [accepted](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202101844) for publication in Advanced Healthcare Materials. Congrats team!
+
 * 10-22 Eric passed his PhD qualifier. Congrats Eric!
 
 * 09-08 Meghan and Shana joins the lab as Direct-Entry PhD students. Welcome Meghan and Shana!
