@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "meghan.rothenbroker@mail.utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:meghan.rothenbroker@mail.utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: ""
