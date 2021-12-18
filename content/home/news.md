@@ -46,7 +46,7 @@ subtitle = ""
 
 <br>
 ### 2021:
-* 12-17 Congratulations to Abdulmateen and Stuti on their terrific MASc defenses!! Both of them delivered a fantastic oral presentation of their projects and did a great job on the Q&A! 
+* 12-17 Abdulmateen and Stuti both successfully passed their MASc defenses! Both of them delivered a fantastic oral presentation and did terrific jobs on the Q&A. Congratulations to Abdulmateen and Stuti!!
 
 * 11-01 A review paper on interfacing DNA nanotechnology with the immune system by Eric, Wendy, and Travis was [accepted](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202101844) for publication in Advanced Healthcare Materials. Congrats team!
 
