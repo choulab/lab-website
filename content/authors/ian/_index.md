@@ -21,9 +21,8 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- DNA nanotechnology
-- Microfluidics
-- Single-cell analysis
+- Postdoctoral Fellow
+- Nanomedicine Network
 
 education:
   courses:

@@ -21,9 +21,8 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- DNA nanotechnology
-- Molecular engineering
-- Synthetic biology
+- Research Associate
+- PacBio
 
 education:
   courses:
