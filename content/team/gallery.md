@@ -46,6 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< figure src="photos/20220307_caketime01.jpg" title="We celebrate Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing!" lightbox= "true" >}}
+
 {{< figure src="photos/20210826_labbbq01.jpg" title="Aug 2021 - Lab BBQ at Hanlan's Point, Toronto Center Islands. The only photo we managed to take, everyone had a big smile and weather was amazing!!" lightbox= "true" >}}
 
 {{< figure src="photos/20210514_gamenight01.jpg" title="May 2021 - Virtual game night in the COVID era" lightbox= "true" >}}
