@@ -21,8 +21,7 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Research Associate
-- PacBio
+- Research Associate @ PacBio
 
 education:
   courses:

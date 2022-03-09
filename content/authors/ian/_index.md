@@ -21,8 +21,7 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Postdoctoral Fellow
-- Nanomedicine Network
+- Postdoctoral Fellow @ Nanomedicine Network
 
 education:
   courses:

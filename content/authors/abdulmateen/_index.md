@@ -21,8 +21,7 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Research Technician III
-- Sunnybrook Hospital
+- Research Technician III @ Sunnybrook Hospital
 
 education:
   courses:
