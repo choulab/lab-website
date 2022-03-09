@@ -46,7 +46,7 @@ subtitle = ""
 
 <br>
 ### 2022:
-* 03-07 We celebrate Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing!
+* 03-07 We [celebrate](team/#gallery/) Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing! 
 
 * 03-02 We bid farewell to Abdulmateen, who is starting his new role as research technician III at Sunnybrook. Best of luck with everything Abdulmateen!
 
