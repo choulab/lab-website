@@ -45,8 +45,10 @@ subtitle = ""
 <div style="text-align:center"><h1>Latest News & Updates:</h1></div>
 
 <br>
-### 2021:
-* 03-07 We celebrate Stuti on accepting an offer to join the dna sequencing team at Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti!
+### 2022:
+* 03-07 We celebrate Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing!
+
+{{< figure src="photos/20210826_labbbq01.jpg" title="Aug 2021 - Lab BBQ at Hanlan's Point, Toronto Center Islands. The only photo we managed to take, everyone had a big smile and weather was amazing!!" lightbox= "true" >}}
 
 * 03-02 We bid farewell to Abdulmateen, who is starting his new role as research technician III at Sunnybrook. Best of luck with everything Abdulmateen!
 
