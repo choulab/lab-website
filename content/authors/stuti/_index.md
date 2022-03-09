@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc candidate
+role: MASc
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: "stuti.joshi@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- current members
+- alumni
 ---
 
 Stuti is a Masters candidate at the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. Her research interests include molecular biology, cellular signalling, and nanoengineering. 

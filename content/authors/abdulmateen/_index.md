@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc candidate
+role: MASc
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: "a.aderinto@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- current members
+- alumni
 ---
 Abdulmateen is a member of the Chou lab and a masters student in the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA Nanotechnology, Molecular Biology, Molecular Engineering, and Synthetic Biology.
 

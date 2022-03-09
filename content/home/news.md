@@ -46,6 +46,12 @@ subtitle = ""
 
 <br>
 ### 2021:
+* 03-07 We celebrate Stuti on accepting an offer to join the dna sequencing team at Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti!
+
+* 03-02 We bid farewell to Abdulmateen, who is starting his new role as research technician III at Sunnybrook. Best of luck with everything Abdulmateen!
+
+
+### 2021:
 * 12-17 Abdulmateen and Stuti both successfully passed their MASc defenses! Both of them delivered a fantastic oral presentation and did terrific jobs on the Q&A. Congratulations to Abdulmateen and Stuti!!
 
 * 11-01 A review paper on interfacing DNA nanotechnology with the immune system by Eric, Wendy, and Travis was [accepted](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202101844) for publication in Advanced Healthcare Materials. Congrats team!
