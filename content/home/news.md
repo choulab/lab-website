@@ -46,7 +46,9 @@ subtitle = ""
 
 <br>
 ### 2022:
-* 03-07 We [celebrate](team/#gallery) Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing! 
+* 03-24 Check out our group photo at the annual lab ["holidays dinner"](team/#03-24) at JUMP! What a great bunch to science with. Special thanks to Meghan for organizing! 
+
+* 03-07 We [celebrate](team/#03-07) Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing! 
 
 * 03-02 We bid farewell to Abdulmateen, who is starting his new role as research technician III at Sunnybrook. Best of luck with everything Abdulmateen!
 
@@ -62,7 +64,7 @@ subtitle = ""
 
 * 08-28 We bid goodbye to Hossen and Jason, our two summer students. Good luck with the new semester
 
-* 08-26 Lab BBQ at Hanlan's Point, Toronto Center Islands. Check out the only photo we managed to take [here](/team/)! (And big thanks Jason for organizing!)
+* 08-26 Lab BBQ at Hanlan's Point, Toronto Center Islands. Check out the only photo we managed to take [here](/team/#08-26)! (And big thanks Jason for organizing!)
 
 * 07-22 Wendy was awarded a PRiME Postdoctoral Fellowship. Congrats Wendy!
 
