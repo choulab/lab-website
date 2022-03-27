@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="photos/20220304_labdinner.jpg" title="The long awaited annual lab dinner. Everyone looking fly at JUMP!" lightbox= "true" >}}
+{{< figure src="photos/20220324_labdinner.jpg" title="The long awaited annual lab dinner. Everyone looking fly at JUMP!" lightbox= "true" >}}
 
 {{< figure src="photos/20220307_caketime01.jpg" title="We celebrate Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing!" lightbox= "true" >}}
 
