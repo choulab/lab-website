@@ -46,6 +46,8 @@ subtitle = ""
 
 <br>
 ### 2022:
+* Congratulations Meghan on being awarded a Vanier scholarship, the most prestigious scholarship for graduate students in Canada!
+
 * 03-24 Check out our group photo at the annual lab ["holidays dinner"](team/#03-24) at JUMP! What a great bunch to science with. Special thanks to Meghan for organizing! 
 
 * 03-07 We [celebrate](team/#03-07) Stuti on accepting the offer to join Pacific Biosciences in sunny San Diego, CA. Best of luck Stuti, be the future of long-read dna sequencing! 
