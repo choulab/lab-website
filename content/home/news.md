@@ -46,7 +46,7 @@ subtitle = ""
 
 <br>
 ### 2022:
-* Congratulations Meghan on being awarded a Vanier scholarship, the most prestigious scholarship for graduate students in Canada!
+* 04-11 Congratulations Meghan on being awarded a Vanier scholarship, the most prestigious scholarship for graduate students in Canada!
 
 * 03-24 Check out our group photo at the annual lab ["holidays dinner"](team/#03-24) at JUMP! What a great bunch to science with. Special thanks to Meghan for organizing! 
 
