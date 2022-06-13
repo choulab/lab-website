@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Stuti Joshi
+title: Stuti Joshi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc
+role: MASc (2022) <br> **Applications Scientist** <br> PacBio
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,6 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Research Associate @ PacBio
 
 education:
   courses:
@@ -58,11 +57,11 @@ email: "stuti.joshi@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- alumni
+- Alumni
 ---
 
-Stuti is a Masters candidate at the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. Her research interests include molecular biology, cellular signalling, and nanoengineering. 
+Stuti is an alumnus of the Chou lab. She defended her MASc degree in Dec 2021, and has since moved to California to pursue her dream job in the DNA sequencing industry. Her research interests include molecular biology, cellular signalling, and nanoengineering. 
 
-Before joining her cohort at IBBME, Stuti completed her undergraduate degree at the University of Toronto Mississauga, where she specialized in Molecular Biology and majored in Health Sciences. Her undergraduate thesis investigated the role of myoinhibiting peptides on physiological functions of the kissing bug, *Rhodnius prolixus*.
+Before joining her cohort at the Chou lab, Stuti completed her undergraduate degree at the University of Toronto Mississauga, where she specialized in Molecular Biology and majored in Health Sciences. Her undergraduate thesis investigated the role of myoinhibiting peptides on physiological functions of the kissing bug, *Rhodnius prolixus*.
 
 When Stuti isn't tackling the big questions at the nano level, she can be found practicing henna designs, reading a cliffhanger, or riding her bike.

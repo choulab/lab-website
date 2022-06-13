@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Eric Tseng
+title: Eric Tseng
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate 
+role: PhD candidate<br>
 
 # Organizations/Affiliations
 organizations:
@@ -60,5 +60,5 @@ email: "chunyi.tseng@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- current members
+- Researchers
 ---

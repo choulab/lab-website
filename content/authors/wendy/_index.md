@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Wendy Wang
+title: Wendy Wang
 
 # Username (this should match the folder name)
 authors:
@@ -60,6 +60,6 @@ email: "wendyw.wang@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- current members
+- Researchers
 ---
 

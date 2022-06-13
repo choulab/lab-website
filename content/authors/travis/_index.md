@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Travis Douglas
+title: Travis Douglas
 
 # Username (this should match the folder name)
 authors:
@@ -60,7 +60,7 @@ email: "travis.douglas@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- current members
+- Researchers
 ---
 
 Travis is a PhD candidate at the Institute of Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, RNA therapeutics, molecular biology, and physiology.<br><br>

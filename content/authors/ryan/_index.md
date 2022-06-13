@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ryan Lee
+title: Ryan Lee
 
 # Username (this should match the folder name)
 authors:
@@ -60,7 +60,7 @@ email: "ryan.clee@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- current members
+- Researchers
 ---
 
 Ryan Lee is a PhD candidate at Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, machine learning and neuroscience. <br><br> Before joining IBBME, Ryan completed his undergraduate thesis with Dr. Judith Shedden and Dr. Martin von Mohrenschildt and graduated with a BSc in Biology and Psychology at McMaster University.

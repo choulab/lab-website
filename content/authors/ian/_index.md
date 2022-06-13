@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ian Chen
+title: Ian Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc 
+role: PDF (2021) <br> **Scientist** <br> Shennon Biotechnologies
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,6 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Postdoctoral Fellow @ Nanomedicine Network
 
 education:
   courses:
@@ -59,5 +58,10 @@ email: "yihyang.chen@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- alumni
+- Alumni
 ---
+
+
+Ian is an alumnus of the Chou lab. He joined the Chou lab in 2021 as a MITACS funded postdoctoral fellow and worked on the development of cell-free synthetic gene circuits. 
+
+Prior to the Chou lab, Ian obtained his PhD from the Biomedical Engineering department at the University of Toronto under the guidance of Prof. Warren Chan. His PhD focused on investigating the role of endothelial cells in nanoparticle drug delivery. 

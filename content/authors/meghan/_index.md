@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Meghan Rothenbroker
+title: Meghan Rothenbroker
 
 # Username (this should match the folder name)
 authors:
@@ -74,7 +74,7 @@ email: "meghan.rothenbroker@mail.utoronto.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 #   Needed to categorize members into current vs. alumni
 user_groups:
-- current members
+- Researchers
 
 # enter your short bio below. This will show up when user click on your name to checkout your profile≥
 ---

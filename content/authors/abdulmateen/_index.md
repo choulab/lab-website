@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Abdulmateen Aderinto
+title: Abdulmateen Aderinto
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc
+role: MASc (2022) <br> **Research Associate** <br> Sunnybrook Hospital
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,13 @@ organizations:
 bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Research Technician III @ Sunnybrook Hospital
+
 
 education:
   courses:
+  - course: MASc in Biomedical Engineering
+    institution: University of Toronto
+    year: 2022
   - course: BSc in Biochemistry
     institution: McMaster University
     year: 2019
@@ -58,10 +61,10 @@ email: "a.aderinto@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- alumni
+- Alumni
 ---
-Abdulmateen is a member of the Chou lab and a masters student in the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA Nanotechnology, Molecular Biology, Molecular Engineering, and Synthetic Biology.
+Abdulmateen is an alumnus of the Chou lab. He obtained his MASc degree in January 2022. His research interests include DNA Nanotechnology, Molecular Biology, Molecular Engineering, and Synthetic Biology.
 
-Before joining IBBME in September 2019, Abdulmateen completed his undergraduate degree in Biochemistry at McMaster University in Hamilton, Ontario. Abdulmateen also completed a 4th year independent research project focused on Wnt Signaling in Stem Cell Biology under the supervision of Dr. Bradley Doble in the Stem Cell and Cancer Research Institute (SCC-RI).
+Prior to joining the Chou lab, Abdulmateen completed his undergraduate degree in Biochemistry at McMaster University in Hamilton, Ontario. Abdulmateen also completed a 4th year independent research project focused on Wnt Signaling in Stem Cell Biology under the supervision of Dr. Bradley Doble in the Stem Cell and Cancer Research Institute (SCC-RI).
 
 When he's not doing science, Abdulmateen enjoys powerlifting, exploring the latest technology, and playing sports (Basketball, Football, Soccer).
