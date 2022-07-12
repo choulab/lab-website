@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc (2022) <br> **Research Associate** <br> Sunnybrook Hospital
+role: MASc (2022) <br> **Associate Scientist** <br> Vital Bio
 
 # Organizations/Affiliations
 organizations:
