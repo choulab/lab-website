@@ -5,7 +5,7 @@ title: "The lab awarded the Connaught New Researcher Award! "
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["all_news", "2021_news"]
 categories: []
 date: 2021-07-03
 featured: false

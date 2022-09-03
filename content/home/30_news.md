@@ -14,11 +14,12 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: ''
+    tag: 'all_news'
   offset: 0
   order: desc
   page_type: news
+
 design:
-  view: 3
+  view: 2
   columns: '1'
 ---

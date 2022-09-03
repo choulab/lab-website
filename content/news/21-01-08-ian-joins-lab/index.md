@@ -5,7 +5,7 @@ title: "Ian joins the lab as a MITACS funded postdoct"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["all_news", "2021_news"]
 categories: []
 date: 2021-01-08
 featured: false

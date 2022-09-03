@@ -5,7 +5,7 @@ title: "Congrats to Travis and Eric on winninng multiple Faculty of Medicine OSO
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["all_news", "2022_news"]
 categories: []
 date: 2022-07-14
 featured: false
