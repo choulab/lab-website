@@ -37,12 +37,14 @@ content:
   filter_button:
     - name: All
       tag: "all_social"
+    - name: 2019
+      tag: "2019_social"
     - name: 2020
-      tag: 2020_social
+      tag: "2020_social"
     - name: 2021
-      tag: 2021_social
+      tag: "2021_social"
     - name: 2022
-      tag: 2022_social
+      tag: "2022_social"
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
