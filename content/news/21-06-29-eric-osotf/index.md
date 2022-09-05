@@ -5,7 +5,7 @@ title: "Eric awarded the Paul STARITA Graduate Student Fellowships from the Facu
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["all_news", "2021_news"]
 categories: []
 date: 2021-06-29
 featured: false

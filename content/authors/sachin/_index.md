@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc (2022) <br> **PhD student** <br> UPenn Bioengineering
+role: MASc (2022) <br> **PhD candidate** <br> UPenn Bioengineering
 
 # Organizations/Affiliations
 organizations:
