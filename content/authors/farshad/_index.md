@@ -19,12 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
-Farshad is a Direct-Entry PhD student at the Institute of Biomedical Engineering at the University of Toronto. His current research interests are synthetic biology and cancer immunotherapy. However, he also really wants to branch out into other areas such as machine learning, molecular computing, and molecular engineering. On top of his research interests, Farshad has a huge passion for technology development and entrepreneurship.
-
-Prior to becoming a member of Dr.Chou’s lab in BME, Farshad completed his undergraduate degree in Health Science and Biology at Western University. There, under the supervision of Dr. John Trant, he studied carbohydrate cancer vaccines and the interactions between minor cannabinoids and pharmacologically relevant central nervous system receptors. During his time at Western, Farshad also interned at the Ontario Medical Association and won the National Proteus Innovation Competition for the Trant Lab’s patented method for forming multiple disulphide bonds in a peptide using thermally labile cysteine protecting groups.
-
-Outside of the lab, Farshad spends his time reading, making music, watching movies, and writing blogs for his website ( www.farshadmurtada.com ). 
-
 
 interests:
 - Synthetic Biology
@@ -68,3 +62,9 @@ email: "farshad.murtada@utoronto.ca"
 user_groups:
 - Researchers
 ---
+
+Farshad is a Direct-Entry PhD student at the Institute of Biomedical Engineering at the University of Toronto. His current research interests are synthetic biology and cancer immunotherapy. However, he also really wants to branch out into other areas such as machine learning, molecular computing, and molecular engineering. On top of his research interests, Farshad has a huge passion for technology development and entrepreneurship.
+
+Prior to becoming a member of Dr.Chou’s lab in BME, Farshad completed his undergraduate degree in Health Science and Biology at Western University. There, under the supervision of Dr. John Trant, he studied carbohydrate cancer vaccines and the interactions between minor cannabinoids and pharmacologically relevant central nervous system receptors. During his time at Western, Farshad also interned at the Ontario Medical Association and won the National Proteus Innovation Competition for the Trant Lab’s patented method for forming multiple disulphide bonds in a peptide using thermally labile cysteine protecting groups.
+
+Outside of the lab, Farshad spends his time reading, making music, watching movies, and writing blogs for his website ( www.farshadmurtada.com ). 
