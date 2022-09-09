@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 30
 
 title: Analytics
-subtitle: "*Innovating solutions to meet tomorrow's biomedical and healthcare challenges*"
+subtitle: "*Integrating materials with DNA nanotechnology to enhance quantitative measurements*"
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
