@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PI
+title: Leo Chou
 
 # Is this the primary user of the site?
 superuser: true
