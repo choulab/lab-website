@@ -15,7 +15,7 @@ design:
 
 [17] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.19.508533v1). 2022/09/20
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.19.508533v1) 2022/09/20.
 
 [16] Tseng CY, Wang XY, Douglas TR, Chou LYT‡ <br>
 **Engineering DNA Nanostructures to Manipulate Immune Receptor Signaling and Immune Cell Fates.** <br>
