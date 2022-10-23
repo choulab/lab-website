@@ -5,7 +5,7 @@ title: "Chou lab begins"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["all_news", "2019_news", "2019_social", "all_social"]
+tags: ["news", "socials", "2019"]
 categories: []
 date: 2019-09-01
 featured: false

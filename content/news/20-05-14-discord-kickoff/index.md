@@ -5,7 +5,7 @@ title: "First Discord lab meeting"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["2020_social", "all_social"]
+tags: ["socials", "2020"]
 categories: []
 date: 2020-05-14
 featured: false

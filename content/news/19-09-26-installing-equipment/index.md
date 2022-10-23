@@ -5,7 +5,7 @@ title: "Setting up the lab"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["2019_social", "all_social"]
+tags: ["socials", "2019"]
 categories: []
 date: 2019-09-26
 featured: false

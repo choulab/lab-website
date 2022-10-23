@@ -5,7 +5,7 @@ title: "Meghan and Shana joins the lab as PhD students! "
 subtitle: ""
 summary: ""
 authors: []
-tags: ["all_news", "2021_news"]
+tags: ["news", "2021"]
 categories: []
 date: 2021-09-01
 featured: false

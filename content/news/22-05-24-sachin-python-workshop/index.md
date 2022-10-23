@@ -2,7 +2,7 @@
 title: Sachin walks us through his python probe design pipeline
 date: 2022-05-24
 
-tags: ["all_social", "2022_social"]
+tags: ["socials", "2022"]
 ---
 
 Btw, thanks for making us install all the extra dependencies...

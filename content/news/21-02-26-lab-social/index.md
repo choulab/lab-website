@@ -5,7 +5,7 @@ title: "First lab social in the year of the global pandemic. We staying strong"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["all_social", "2021_social"]
+tags: ["socials", "2021"]
 categories: []
 date: 2021-06-29
 featured: false

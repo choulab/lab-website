@@ -5,7 +5,7 @@ title: "Floor social"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["2019_social", "all_social"]
+tags: ["socials", "2019"]
 categories: []
 date: 2019-10-25
 featured: false

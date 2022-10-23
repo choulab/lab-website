@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Congrats to Travis and Eric on winninng multiple Faculty of Medicine OSOTF awards"
+title: "Congrats to Travis and Eric on winning multiple Faculty of Medicine OSOTF awards"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["all_news", "2022_news"]
+tags: ["news", "2022"]
 categories: []
 date: 2022-07-14
 featured: false

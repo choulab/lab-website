@@ -36,15 +36,15 @@ content:
   # To remove toolbar, delete/comment all instances of `filter_button` below.
   filter_button:
     - name: All
-      tag: "all_social"
+      tag: "socials"
     - name: 2019
-      tag: "2019_social"
+      filter: ".js-id-socials.js-id-2019"
     - name: 2020
-      tag: "2020_social"
+      filter: ".js-id-socials.js-id-2020"
     - name: 2021
-      tag: "2021_social"
+      filter: ".js-id-socials.js-id-2021"
     - name: 2022
-      tag: "2022_social"
+      filter: ".js-id-socials.js-id-2022"
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0

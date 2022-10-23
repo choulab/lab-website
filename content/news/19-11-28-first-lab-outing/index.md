@@ -5,7 +5,7 @@ title: "First lab outing"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["2019_social", "all_social"]
+tags: ["socials", "2019"]
 categories: []
 date: 2019-11-28
 featured: false

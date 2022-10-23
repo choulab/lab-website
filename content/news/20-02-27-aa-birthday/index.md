@@ -5,7 +5,7 @@ title: "Happy birthday Abdulmateen!"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["2020_social", "all_social"]
+tags: ["socials", "2020"]
 categories: []
 date: 2020-02-27
 featured: false

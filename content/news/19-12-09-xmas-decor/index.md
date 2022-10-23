@@ -5,7 +5,7 @@ title: "Thanks for the office decoration"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["2019_social", "all_social"]
+tags: ["socials", "2019"]
 categories: []
 date: 2019-12-09
 featured: false
