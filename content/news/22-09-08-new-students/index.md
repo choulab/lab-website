@@ -1,5 +1,5 @@
 ---
-title: Three new graduate students join the Chou lab
+title: Chou lab welcomes three additional graduate students!
 date: 2022-09-08
 tags: [ "news", "2022" ]
 ---
