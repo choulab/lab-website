@@ -36,7 +36,7 @@ content:
       background:
         position: top
         color: '#666'
-        brightness: 0.3
+        brightness: 0.6
         media: laboratory-panorama.jpg
 
       link: 
@@ -51,7 +51,7 @@ content:
       background:
         position: top
         color: '#666'
-        brightness: 0.3
+        brightness: 0.6
         media: lab-dinner.jpg
 
       link: 
@@ -66,7 +66,7 @@ content:
       background:
         position: top
         color: '#666'
-        brightness: 0.3
+        brightness: 0.6
         media: UofTEng-1400x500.png
 
       link: 
