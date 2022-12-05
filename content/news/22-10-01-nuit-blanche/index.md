@@ -1,5 +1,5 @@
 ---
-title: Lab takes a mid-night stroll through Toronto's Nuit Blanche 
+title: Mid-night stroll through Toronto's Nuit Blanche 
 date: 2022-10-01
 tags: [ "socials", "2022" ]
 ---
