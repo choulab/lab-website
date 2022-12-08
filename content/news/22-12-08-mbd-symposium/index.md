@@ -1,5 +1,5 @@
 ---
-title: Wendy, Shana presents at the Annual Medicine by Design symposium 
+title: Wendy, Shana presents at the annual Medicine by Design symposium 
 date: 2022-12-08
 tags: ["news", "2022", "featured", "socials"]
 ---
