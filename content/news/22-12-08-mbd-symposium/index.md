@@ -8,3 +8,6 @@ Wendy delivers a talk on her development of origamiFISH, a method for visualizin
 
 
 <!--more-->
+
+
+![screen reader text](salexander_mbdposter.jpg)
