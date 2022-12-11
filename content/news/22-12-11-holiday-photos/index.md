@@ -1,10 +1,10 @@
 ---
-title: Happy holidays from the Chou lab!
+title: 2022 holidays lab group photo
 date: 2022-12-08
 tags: ["2022", "socials"]
 ---
 
-
+Happy holidays from the Chou lab!
 
 <!--more-->
 
