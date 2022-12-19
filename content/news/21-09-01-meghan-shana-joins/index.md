@@ -9,6 +9,7 @@ tags: ["news", "2021"]
 categories: []
 date: 2021-09-01
 featured: false
+profile: false
 draft: false
 
 # Featured image

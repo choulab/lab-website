@@ -10,6 +10,7 @@ categories: []
 date: 2021-06-29
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
