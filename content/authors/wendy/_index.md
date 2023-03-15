@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc (2023) <br> **Postdoctoral Fellow** <br> Broad Institute / Harvard University
 
 # Organizations/Affiliations
 organizations:
@@ -60,6 +60,6 @@ email: "wendyw.wang@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Alumni
 ---
 
