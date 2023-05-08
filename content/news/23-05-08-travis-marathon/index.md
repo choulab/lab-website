@@ -6,5 +6,3 @@ profile: false
 ---
 
 
-![screen reader text](IMG_8774.JPG)
-
