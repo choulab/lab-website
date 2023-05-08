@@ -1,7 +1,7 @@
 ---
 title: Travis presenting his research at the Foundations of Nanoscience conference
 date: 2023-04-27
-tags: ["2023", "news", "featured"]
+tags: ["2023", "news", "featured", "socials"
 profile: false
 ---
 
