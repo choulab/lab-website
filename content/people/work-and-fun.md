@@ -45,6 +45,8 @@ content:
       filter: ".js-id-socials.js-id-2021"
     - name: 2022
       filter: ".js-id-socials.js-id-2022"
+    - name: 2023
+      filter: ".js-id-socials.js-id-2023"
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
