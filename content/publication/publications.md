@@ -13,6 +13,14 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
+[17] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
+**Addressing the in vivo delivery of nucleic-acid nanostructure therapeutics .** <br>
+Advanced Drug Delivery Reviews. *Accepted*
+
+[17] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
+**origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
+Nature Nanotechnology. *Accepted*
+
 [17] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.19.508533v2) 2022/09/20.
