@@ -15,7 +15,7 @@ design:
 
 [19] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
 **Addressing the in vivo delivery of nucleic-acid nanostructure therapeutics .** <br>
-Advanced Drug Delivery Reviews. *Accepted*
+Advanced Drug Delivery Reviews. *[Available Online](https://www.sciencedirect.com/science/article/pii/S0169409X23002132)*
 
 [18] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
