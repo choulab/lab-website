@@ -6,7 +6,4 @@ profile: false
 ---
 
 
-Shana, Amir, and Meghan's article on addressing the in vivo delivery of nucleic-acid nanostructures has been online in the jounral Advanced Drug Delivery Reviews. Congratulations to all!
-
-[link to article](https://www.sciencedirect.com/science/article/pii/S0169409X23002132)
-
+Shana, Amir, and Meghan's article on addressing the in vivo delivery of nucleic-acid nanostructures has been [published](https://www.sciencedirect.com/science/article/pii/S0169409X23002132) online in the jounral Advanced Drug Delivery Reviews. Congratulations to all!
