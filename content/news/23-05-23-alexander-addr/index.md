@@ -1,5 +1,5 @@
 ---
-title: Shana, Amir, and Meghan's review article published on Advanced Drug Delivery Reviews
+title: Our review article has been published today in Advanced Drug Delivery Reviews
 date: 2023-05-23
 tags: ["2023", "news"]
 profile: false
