@@ -14,7 +14,7 @@ design:
 ‡ corresponding author<br>
 
 [18] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
-**origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
+**Universal, label-free, single-molecule visualization of DNA origami nanodevices across biological samples using origamiFISH.** <br>
 [Nature Nanotechnology](https://www.nature.com/articles/s41565-023-01449-5)
 
 [18] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
