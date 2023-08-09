@@ -13,7 +13,11 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
-[18] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
+[20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
+**Simple and rewireable biomolecular building blocks for DNA machine-learning algorithms.** <br>
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.20.549967v1)
+
+[19] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **Universal, label-free, single-molecule visualization of DNA origami nanodevices across biological samples using origamiFISH.** <br>
 [Nature Nanotechnology](https://www.nature.com/articles/s41565-023-01449-5)
 
