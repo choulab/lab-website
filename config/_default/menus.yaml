@@ -19,6 +19,9 @@ main:
   - name: PUBLICATIONS
     url: publication
     weight: 50
+  - name: RESOURCES
+    url: resource
+    weight: 60
   - name: JOIN
     url: join
-    weight: 60
+    weight: 70
