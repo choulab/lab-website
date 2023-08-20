@@ -1,6 +1,6 @@
 ---
 # ... Put Your Section Options Here (title etc.) ...
-title: Publications
+title: Resources
 
 subtitle:
 weight: 10  # section position on page
