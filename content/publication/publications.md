@@ -37,10 +37,12 @@ design:
 **Design verification as foundation for advancing DNA nanotechnology applications.** <br> 
 [ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.1c04304). 2021, 15, 6, 9222-9228.<br>
 
-
 [14] Lee RC, Douglas TR, Chou LYT‡ <br>
 **DNA-Tethered RNA Polymerase for Programmable In vitro Transcription and Molecular Computation.** <br>
 [JoVE](https://www.jove.com/v/62073/dna-tethered-rna-polymerase-for-programmable-vitro-transcription).<br>
+
+
+---Before University of Toronto:---
 
 [13]  Hahn JS*, Chou LYT*, Sorensen RS, Guerra R, Shih WM <br> 
 **Extrusion of RNA from a DNA-origami-based Nanofactory.** <br>
