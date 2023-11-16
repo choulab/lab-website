@@ -15,11 +15,11 @@ design:
 
 [21] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
 **High-throughput, label-free detection of DNA origami in single-cell suspensions using origamiFISH-Flow** <br>
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.31.564845v1). <br>
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.31.564845v1). 2023/11/02.
 
 [20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
 **Simple and rewireable biomolecular building blocks for DNA machine-learning algorithms.** <br>
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.20.549967v1)
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.20.549967v1). 2023/07/23.
 
 [19] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **Universal, label-free, single-molecule visualization of DNA origami nanodevices across biological samples using origamiFISH.** <br>
@@ -27,7 +27,7 @@ design:
 
 [18] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
 **Addressing the in vivo delivery of nucleic-acid nanostructure therapeutics .** <br>
-[Advanced Drug Delivery Reviews](https://www.sciencedirect.com/science/article/pii/S0169409X23002132) *Available Online*
+[Advanced Drug Delivery Reviews](https://www.sciencedirect.com/science/article/pii/S0169409X23002132) 2023, 114898.
 
 [17] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
