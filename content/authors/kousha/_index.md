@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MASc candidate <br> (co-supervised with Dr. Kim Tsoi)
+role: PhD candidate <br> (co-supervised with Dr. Kim Tsoi)
 
 # Organizations/Affiliations
 organizations:
