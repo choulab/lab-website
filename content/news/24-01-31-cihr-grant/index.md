@@ -5,6 +5,8 @@ tags: [ "news", "2024" ]
 profile: false
 ---
 
+see announcement [here](https://discover.bme.utoronto.ca/four-biomedical-engineering-faculty-members-secure-cihr-funding-for-research-projects/#new_tab)
+
 <!--more-->
 
 https://discover.bme.utoronto.ca/four-biomedical-engineering-faculty-members-secure-cihr-funding-for-research-projects/#new_tab
