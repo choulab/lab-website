@@ -16,6 +16,7 @@ design:
 [21] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
 **High-throughput, label-free detection of DNA origami in single-cell suspensions using origamiFISH-Flow** <br>
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.31.564845v1). 2023/11/02.
+Now published in [Small](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202400236). 2024/04/30.
 
 [20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
 **Simple and rewireable biomolecular building blocks for DNA machine-learning algorithms.** <br>
