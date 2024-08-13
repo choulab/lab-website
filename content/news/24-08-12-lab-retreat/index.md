@@ -1,7 +1,7 @@
 ---
-title: Lab retreat
+title: Lab retreat at Woodbine beach
 date: 2024-08-12
-tags: ["2024", "socials", "news"]
+tags: ["2024", "socials"]
 profile: false
 ---
 
