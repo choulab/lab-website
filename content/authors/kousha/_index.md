@@ -63,6 +63,6 @@ user_groups:
 - Researchers
 ---
 
-Kousha is a MASc student at the Institute of Biomedical Engineering at the University of Toronto. He is co-supervised by Dr. Kim Tsoi, a surgeon-investigator and sarcoma specialist based in Mount Sinai Hospital. His research interests include DNA nanotechnology, cancer immunotherapies, and molecular engineering.  
+Kousha is a PhD student at the Institute of Biomedical Engineering at the University of Toronto. He is co-supervised by Dr. Kim Tsoi, a surgeon-investigator and sarcoma specialist based in Mount Sinai Hospital. His research interests include DNA nanotechnology, cancer immunotherapies, and molecular engineering.  
 Prior to becoming a member of Dr. Chou’s lab at BME, Kousha completed his undergraduate degree in Cell, Molecular and Developmental Biology at the University of Manitoba. There, under the supervision of Dr. Steve Whyard, he helped to characterize a novel double-stranded RNA structure to improve RNAi-based insecticides against mosquitoes.  
 Outside of the lab, Kousha enjoys biking around town, discovering new restaurants in his neighbourhood, and rewatching Lost for the fifth time (and ridiculing people who misunderstood the series finale and thought it was bad).
