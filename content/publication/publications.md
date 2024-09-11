@@ -13,27 +13,24 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
-[21] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
+[20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
 **Rewireable Building Blocks for Enzyme-Powered DNA Computing Networks.** <br>
 [JACS](https://pubs.acs.org/doi/full/10.1021/jacs.4c07221). 2024/09/10.
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.20.549967v1). 2023/07/23.
 
-[20] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
+[19] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
 **High-throughput, label-free detection of DNA origami in single-cell suspensions using origamiFISH-Flow** <br>
 [Small](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202400236). 2024/04/30. 
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.31.564845v1). 2023/11/02.
 
-[19] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
+[18] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **Universal, label-free, single-molecule visualization of DNA origami nanodevices across biological samples using origamiFISH.** <br>
-[Nature Nanotechnology](https://www.nature.com/articles/s41565-023-01449-5)
+[Nature Nanotechnology](https://www.nature.com/articles/s41565-023-01449-5). 23/07/27.
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.19.508533v2) 2022/09/20.
 
-[18] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
+[17] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
 **Addressing the in vivo delivery of nucleic-acid nanostructure therapeutics .** <br>
 [Advanced Drug Delivery Reviews](https://www.sciencedirect.com/science/article/pii/S0169409X23002132) 2023, 114898.
-
-[17] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
-**origamiFISH allows universal, label-free, single molecule visualization of DNA origami nanodevices across biological samples.** <br>
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.19.508533v2) 2022/09/20.
 
 [16] Tseng CY, Wang XY, Douglas TR, Chou LYT‡ <br>
 **Engineering DNA Nanostructures to Manipulate Immune Receptor Signaling and Immune Cell Fates.** <br>
