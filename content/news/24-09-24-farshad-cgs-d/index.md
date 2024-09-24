@@ -1,5 +1,5 @@
 ---
-title: Farshad Murtada one of six BME PhD students to win CGS-D Scholarship
+title: Farshad Murtada one of six BME PhD students to win National CGS-D Scholarship
 date: 2024-09-24
 tags: ["news", "2024", "featured"]
 profile: false
