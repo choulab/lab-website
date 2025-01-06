@@ -13,6 +13,10 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
+[21] Douglas TR, Alexander S, Chou LYT‡<br>
+**Patterned antigens on DNA origami controls the structure and cellular uptake of immune complexes.**<br>
+[ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.4c11183). 2025/01/06.
+
 [20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
 **Rewireable Building Blocks for Enzyme-Powered DNA Computing Networks.** <br>
 [JACS](https://pubs.acs.org/doi/full/10.1021/jacs.4c07221). 2024/09/10.
