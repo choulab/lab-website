@@ -6,4 +6,4 @@ profile: false
 ---
 
 
-![screen reader text](IMG_6069.jpg)
+![screen reader text](featured.jpg)
