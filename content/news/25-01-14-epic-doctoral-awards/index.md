@@ -1,7 +1,7 @@
 ---
 title: Amir, Meghan, and Shana receipients of the 2025 EPIC Doctoral Awards
-date: 2024-09-24
-tags: ["news", "2024", "featured"]
+date: 2025-01-14
+tags: ["news", "2025", "featured"]
 profile: false
 ---
 
