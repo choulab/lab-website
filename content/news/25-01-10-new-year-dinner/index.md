@@ -1,5 +1,5 @@
 ---
-title: Annual lab dinner
+title: Annual Chou lab dinner
 date: 2025-01-10
 tags: ["2025", "socials"]
 profile: false
