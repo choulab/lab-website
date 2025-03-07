@@ -1,5 +1,5 @@
 ---
-title: Congrats to Amir on being the 2025 Adel Sedra Award Recipient
+title: Congrats to Amir on being recipient of the 2025 Adel Sedra Award
 date: 2025-03-07
 tags: ["news", "2025", "featured"]
 profile: false
