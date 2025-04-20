@@ -43,7 +43,7 @@ content:
         icon : "search"
         icon_pack : "fas"
         text: "Learn More"
-        url: "/post"
+        url: "/news"
 
     - title: Multi-disciplinary team
       content: We are an interdisciplinary research group working at the interface of engineering, biology, materials chemistry, and computer science
@@ -73,6 +73,6 @@ content:
         icon : "map-marked"
         icon_pack : "fas"
         text: "Get in touch"
-        url: "/contact"
+        url: "/join"
 
 ---
