@@ -11,8 +11,8 @@ Meghan and Eric also gave talks on their research projects examining lymph node 
 
 ![screen reader text](IMG_3245.jpg)
 ![screen reader text](IMG_4223.jpg)
-![screen reader text](IMG_6222.jpg)
-![screen reader text](IMG_6223.jpg)
-![screen reader text](IMG_6224.jpg)
-![screen reader text](IMG_6229.jpg)
-![screen reader text](IMG_6232.jpg)
+![screen reader text](IMG_6222.jpeg)
+![screen reader text](IMG_6223.jpeg)
+![screen reader text](IMG_6224.jpeg)
+![screen reader text](IMG_6229.jpeg)
+![screen reader text](IMG_6232.jpeg)
