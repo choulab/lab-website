@@ -1,7 +1,7 @@
 ---
 title: Leo and Aereas hosts the Toronto virtual hub for the EMBO ImmunoBiophysics symposium
 date: 2025-04-28
-tags: ["news", "2025", "socials", featured"]
+tags: ["news", "2025", "socials", "featured"]
 profile: false
 ---
 
