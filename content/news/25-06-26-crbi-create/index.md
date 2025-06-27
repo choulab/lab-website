@@ -1,5 +1,5 @@
 ---
-title: Shana and Farshad present their projects at the CRBI NSERC CREATE Conference
+title: Shana and Farshad representing the lab at the CRBI NSERC CREATE Conference
 date: 2025-06-26
 tags: ["news", "2025", "socials", "featured"]
 profile: false
