@@ -5,7 +5,7 @@ tags: ["news", "2025", "socials", "featured"]
 profile: false
 ---
 
-Congratulations to our own Travis Douglas for delivering an excellent oral presentation and defense of his PhD thesis. Special thanks to Dr. Arghya Paul from Western University for being the external examiner!
+Annual [Faculty of Medicine Showcase](https://tfmrs.sa.utoronto.ca/) - a full day of networking, workshops, panel discussions, and lectures attended by over 350 participants spanning undergraduate students, graduate students, and faculty from across the Temerty Faculty of Medicine, University of Toronto. 
 
 ![screen reader text](Danny-153-copy.jpg)
 ![screen reader text](Danny-20-copy.jpg)
