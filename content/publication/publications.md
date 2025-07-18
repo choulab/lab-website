@@ -15,7 +15,7 @@ design:
 
 [22] Moghadam MG, Douglas TR, Alexander S, Fiddes LK, Tilstra G, Khan OF, Chou LYT‡<br>
 **PEG-Grafted Oligolysines Stabilize DNA Origami While Enhancing Receptor-Specific Cell Binding**<br>
-JACS. Accepted. 2025/07/14.
+Journal of the American Chemical Society. Accepted. 2025/07/14.
 
 [21] Douglas TR, Alexander S, Chou LYT‡<br>
 **Patterned antigens on DNA origami controls the structure and cellular uptake of immune complexes**<br>
@@ -23,7 +23,7 @@ JACS. Accepted. 2025/07/14.
 
 [20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
 **Rewireable Building Blocks for Enzyme-Powered DNA Computing Networks** <br>
-[JACS](https://pubs.acs.org/doi/full/10.1021/jacs.4c07221). 2024/09/10.
+[Journal of the American Chemical Society](https://pubs.acs.org/doi/full/10.1021/jacs.4c07221). 2024/09/10.
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.20.549967v1). 2023/07/23.
 
 [19] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
