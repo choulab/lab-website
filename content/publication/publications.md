@@ -15,7 +15,7 @@ design:
 
 [22] Moghadam MG, Douglas TR, Alexander S, Fiddes LK, Tilstra G, Khan OF, Chou LYT‡<br>
 **PEG-Grafted Oligolysines Stabilize DNA Origami While Enhancing Receptor-Specific Cell Binding**<br>
-Journal of the American Chemical Society. Accepted. 2025/07/14.
+[Journal of the American Chemical Society](https://pubs.acs.org/doi/full/10.1021/jacs.5c07566). 2025/07/14.
 
 [21] Douglas TR, Alexander S, Chou LYT‡<br>
 **Patterned antigens on DNA origami controls the structure and cellular uptake of immune complexes**<br>
