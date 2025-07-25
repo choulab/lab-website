@@ -1,7 +1,7 @@
 ---
 title: Amir's study on protecting DNA origami using PEG-grafted oligolysines now published in JACS! Congrats Amir and team!
 date: 2025-07-21
-tags: ["2024", "news"]
+tags: ["2025", "news"]
 profile: false
 ---
 
