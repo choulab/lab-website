@@ -28,7 +28,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
@@ -44,4 +44,3 @@ design:
 Nature is the ultimate nanotechnologist. Every cell in the body is powered by molecular machines—proteins, RNA, and DNA—that self-assemble to carry out life’s most intricate functions.
 
 We are a team of engineers, chemists, and immunologists working to build a new generation of nanotechnologies inspired by these natural systems. Our goal is not simply to mimic nature, but to harness and program it, developing scalable, self-assembling tools to solve real-world biomedical problems.
-
