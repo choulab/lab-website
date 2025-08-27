@@ -4,5 +4,3 @@ date: 2025-08-25
 tags: ["2025", "socials"]
 profile: false
 ---
-
-![screen reader text](featured.jpg)
