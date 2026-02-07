@@ -13,6 +13,10 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
+[23] Hou Y, Tseng CY, Orin R, Cohen E, Chou LYT, Treanor B‡<br>
+**DNA Origami-Bilayer Systems for Dissecting the Nanoscale Antigen Landscape in B Cell Immune Synapse Formation**
+[Methods in Cell Biology](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0091679X26000208). 2026/02/06.
+
 [22] Moghadam MG, Douglas TR, Alexander S, Fiddes LK, Tilstra G, Khan OF, Chou LYT‡<br>
 **PEG-Grafted Oligolysines Stabilize DNA Origami While Enhancing Receptor-Specific Cell Binding**<br>
 [Journal of the American Chemical Society](https://pubs.acs.org/doi/full/10.1021/jacs.5c07566). 2025/07/14.
