@@ -1,7 +1,7 @@
 ---
 title: Chou lab awarded a 5-year CIHR grant on exploring the use of immune complexes for vaccines
 date: 2026-02-06
-tags: ["2026", "news"]
+tags: ["2026", "news", "socials"]
 profile: false
 ---
 
