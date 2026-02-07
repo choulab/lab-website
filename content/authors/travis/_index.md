@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate
+role: PhD (2025) <br> **Clinical RA** <br> Sinai Health
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: "travis.douglas@mail.utoronto.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Travis is a PhD candidate at the Institute of Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, RNA therapeutics, molecular biology, and physiology.<br><br>
