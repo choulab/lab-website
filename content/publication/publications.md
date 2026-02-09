@@ -14,7 +14,7 @@ design:
 ‡ corresponding author<br>
 
 [23] Hou Y, Tseng CY, Orin R, Cohen E, Chou LYT, Treanor B‡<br>
-**DNA Origami-Bilayer Systems for Dissecting the Nanoscale Antigen Landscape in B Cell Immune Synapse Formation**
+**DNA Origami-Bilayer Systems for Dissecting the Nanoscale Antigen Landscape in B Cell Immune Synapse Formation**<br>
 [Methods in Cell Biology](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0091679X26000208). 2026/02/06.
 
 [22] Moghadam MG, Douglas TR, Alexander S, Fiddes LK, Tilstra G, Khan OF, Chou LYT‡<br>
