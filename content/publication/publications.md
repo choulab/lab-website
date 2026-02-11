@@ -13,36 +13,40 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
-[23] Hou Y, Tseng CY, Orin R, Cohen E, Chou LYT, Treanor B‡<br>
+[24] Hou Y, Tseng CY, Orin R, Cohen E, Chou LYT, Treanor B‡<br>
 **DNA Origami-Bilayer Systems for Dissecting the Nanoscale Antigen Landscape in B Cell Immune Synapse Formation**<br>
 [Methods in Cell Biology](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0091679X26000208). 2026/02/06.
 
-[22] Moghadam MG, Douglas TR, Alexander S, Fiddes LK, Tilstra G, Khan OF, Chou LYT‡<br>
+[23] Moghadam MG, Douglas TR, Alexander S, Fiddes LK, Tilstra G, Khan OF, Chou LYT‡<br>
 **PEG-Grafted Oligolysines Stabilize DNA Origami While Enhancing Receptor-Specific Cell Binding**<br>
 [Journal of the American Chemical Society](https://pubs.acs.org/doi/full/10.1021/jacs.5c07566). 2025/07/14.
 
-[21] Douglas TR, Alexander S, Chou LYT‡<br>
+[22] Douglas TR, Alexander S, Chou LYT‡<br>
 **Patterned antigens on DNA origami controls the structure and cellular uptake of immune complexes**<br>
 [ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.4c11183). 2025/01/06.
 
-[20] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
+[21] Lee RC, Corsano A, Tseng CY, Chou LYT‡ <br>
 **Rewireable Building Blocks for Enzyme-Powered DNA Computing Networks** <br>
 [Journal of the American Chemical Society](https://pubs.acs.org/doi/full/10.1021/jacs.4c07221). 2024/09/10.
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.20.549967v1). 2023/07/23.
 
-[19] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
+[20] Alexander S, Wang XY, Tseng CY, Douglas TR, Chou LYT‡ <br>
 **High-throughput, label-free detection of DNA origami in single-cell suspensions using origamiFISH-Flow**<br>
 [Small](https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202400236). 2024/04/30. 
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.31.564845v1). 2023/11/02.
 
-[18] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
+[19] Wang XY, Douglas TR, Zhang H, Bhattacharya A, Rothenbroker M, Tang W, Sun Y, Jia Z, Muffat J, Li Y, Chou LYT‡ <br>
 **Universal, label-free, single-molecule visualization of DNA origami nanodevices across biological samples using origamiFISH** <br>
 [Nature Nanotechnology](https://www.nature.com/articles/s41565-023-01449-5). 23/07/27.
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.09.19.508533v2) 2022/09/20.
 
-[17] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
+[18] Alexander S, Moghadam MG, Rothenbroker M, Chou LYT‡ <br>
 **Addressing the in vivo delivery of nucleic-acid nanostructure therapeutics** <br>
 [Advanced Drug Delivery Reviews](https://www.sciencedirect.com/science/article/pii/S0169409X23002132) 2023, 114898.
+
+[17] Danesi AL, Athanasiadou D, Aderinto AO, Rasie P, Chou LYT, Carneiro MM‡<br>
+**Peptide-Decorated DNA Nanostructures Promote Site-Specific Hydroxyapatite Growth**<br>
+[ACS Applied Materials & Interfaces](https://pubs.acs.org/doi/abs/10.1021/acsami.1c19271) 2021, 14, 1, 1692–1698.
 
 [16] Tseng CY, Wang XY, Douglas TR, Chou LYT‡ <br>
 **Engineering DNA Nanostructures to Manipulate Immune Receptor Signaling and Immune Cell Fates** <br>
