@@ -1,7 +1,7 @@
 ---
 title: Shana representing the lab at the Immunoengineering GRC in Ventura, California
 date: 2026-02-22
-tags: ["news", "2026", "featured"]
+tags: ["news", "2026", "featured", "socials"]
 profile: false
 ---
 
