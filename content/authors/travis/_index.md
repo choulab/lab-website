@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD (2025) <br> **Clinical RA** <br> Sinai Health
+role: PhD (2025) <br> **Market Development Manager** <br> Siemens Healthineers
 
 # Organizations/Affiliations
 organizations:
