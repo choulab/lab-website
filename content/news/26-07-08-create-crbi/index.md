@@ -8,6 +8,5 @@ profile: false
 <!--more-->
 
 ![screen reader text](IMG_2700.jpg)
-![screen reader text](IMG_2701.jpg)
 ![screen reader text](IMG_2708.jpg)
 ![screen reader text](IMG_2712.jpg)
