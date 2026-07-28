@@ -13,6 +13,10 @@ design:
 \* co-first authors<br>
 ‡ corresponding author<br>
 
+[25] Kamal K, Chiu ESY, Guo Z, Tsoi KM, Chou LYT‡<br>
+**In vivo translation of DNA origami: a virus-like particle design framework**<br>
+[Trends in Biotechnology](https://www.sciencedirect.com/science/article/pii/S0167779926002817?dgcid=author). 2026/07/26.
+
 [24] Hou Y, Tseng CY, Orin R, Cohen E, Chou LYT, Treanor B‡<br>
 **DNA Origami-Bilayer Systems for Dissecting the Nanoscale Antigen Landscape in B Cell Immune Synapse Formation**<br>
 [Methods in Cell Biology](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0091679X26000208). 2026/02/06.
