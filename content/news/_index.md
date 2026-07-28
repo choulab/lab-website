@@ -8,6 +8,8 @@ view: compact
 
 content:
   count: 15
+  filters:
+    tag: "news"
   
 banner:
   caption: ''
