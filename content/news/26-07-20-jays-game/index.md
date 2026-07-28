@@ -7,4 +7,6 @@ profile: false
 
 <!--more-->
 
-![screen reader text](IMG_2522.jpg)
+![screen reader text](IMG_001.jpg)
+![screen reader text](IMG_002.jpg)
+![screen reader text](IMG_003.jpg)
