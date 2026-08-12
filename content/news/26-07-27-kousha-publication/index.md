@@ -1,7 +1,7 @@
 ---
 title: Kousha, Eric, and David's review paper on in vivo translation of DNA origami now published in Trends in Biotechnology. Congrats team!
 date: 2026-07-27
-tags: ["2026", "news"]
+tags: ["2026", "news", "socials"]
 profile: false
 ---
 
@@ -19,5 +19,8 @@ We hope this framework contributes to the broader effort to make DNA nanostructu
 Huge thanks to a great team — Kousha Kamal, Eric Chiu, Ziji Guo, and Kim Tsoi.
 
 Read it online [here](https://www.sciencedirect.com/science/article/pii/S0167779926002817?dgcid=author)
+
+
+![lunch celebration for the publication](IMG_4867.jpeg)
 
 <!--more-->
