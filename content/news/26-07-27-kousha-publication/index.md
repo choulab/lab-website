@@ -16,6 +16,5 @@ This review proposes a virus-inspired framework to do just that.
 
 Huge thanks to a great team — Kousha Kamal, Eric Chiu, Ziji Guo, and Kim Tsoi. And here's a photo from our lunch celebration 
 
-![lunch celebration for the publication](IMG_4867.jpeg)
 
 <!--more-->
