@@ -1,6 +1,6 @@
 ---
 title: Caroline Switrowski awarded the Ontario Graduate Scholarship. Congrats Caroline!
-date: 2025-08-06
+date: 2026-08-06
 tags: ["news", "2026", "featured"]
 profile: false
 ---

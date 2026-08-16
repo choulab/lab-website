@@ -1,6 +1,6 @@
 ---
 title: Eric Chiu awarded the Cancer Research Society Doctoral Award. Congrats Eric!
-date: 2025-08-06
+date: 2026-08-06
 tags: ["news", "2026", "featured"]
 profile: false
 ---
