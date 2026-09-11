@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ryan Lee
+title: Shruti Anand
 
 # Username (this should match the folder name)
 authors:
-- ryan
+- shruti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate (2026) 
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: 
 
 interests:
-- DNA nanotechnology
-- Machine learning
-- Neuroscience
+- DNA origami
+- Cell signaling
+- Cancer biology
 
 education:
   courses:
-  - course: BSc in Biology and Psychology
-    institution: McMaster University
-    year: 2019
+  - course: BSc in Pharmacology
+    institution: University of Toronto
+    year: 2024
+  - course: MHS in Molecular Microbiology and Immunology
+    institution: Johns Hopkins University
+    year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ryanc.lee@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ziji.guo@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: ""
@@ -55,12 +58,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ryan.clee@mail.utoronto.ca"
+email: 
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Researchers
 ---
 
-Ryan Lee is a PhD candidate at Institute of Biomaterials and Biomedical Engineering at the University of Toronto. His research interests include DNA nanotechnology, machine learning and neuroscience. <br><br> Before joining IBBME, Ryan completed his undergraduate thesis with Dr. Judith Shedden and Dr. Martin von Mohrenschildt and graduated with a BSc in Biology and Psychology at McMaster University.
+Ziji (David) Guo is a first-year PhD student in Biomedical Engineering at the University of Toronto. His research focuses on DNA origami. He hold a BSc degree in Pharmacology at the University of Toronto, completed projects under Dr. Roger McIntyre and Dr. Leonardo Salmena. He earned his Master of Health Science degree in Molecular Microbiology and Immunology at Johns Hopkins University, and completed projects under Dr. Alan Scott and Dr. Jennifer Kavran. 
