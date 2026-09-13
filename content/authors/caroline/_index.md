@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sophia Ly
+title: Caroline Switkowski
 
 # Username (this should match the folder name)
 authors:
-- Sophia
+- Caroline
 
 # Is this the primary user of the site?
 superuser: false
