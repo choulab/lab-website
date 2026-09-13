@@ -19,12 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-"
-Sophia is a Direct-Entry Biomedical Engineering PhD student at the University of Toronto. Her research interests are immunoengineering, dna technology, and drug delivery. 
-
-Prior to joining the Chou Lab, she earned her undergraduate degree in Biomedical Engineering at the University of North Carolina at Chapel Hill with a specialization in pharmacoengineering and regenerative medicine. She completed projects studying microparticle formulations for vaccine adjuvants and autoimmune diseases with a focus on how microparticle properties influence immune responses under Dr. Kristy Ainslie in the UNC Eshelman School of Pharmacy. She also worked at Epigenos Biosciences, Fujifilm Biotechnologies, and Beam Therapeutics.
-
-Outside the lab, Sophia likes to hike, bake, and explore new places."
 
 interests:
 - DNA technology
