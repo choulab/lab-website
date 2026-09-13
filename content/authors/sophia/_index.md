@@ -4,13 +4,13 @@ title: Sophia Ly
 
 # Username (this should match the folder name)
 authors:
-- sophia
+- Sophia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -19,20 +19,24 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+"
+Sophia is a Direct-Entry Biomedical Engineering PhD student at the University of Toronto. Her research interests are immunoengineering, dna technology, and drug delivery. 
+
+Prior to joining the Chou Lab, she earned her undergraduate degree in Biomedical Engineering at the University of North Carolina at Chapel Hill with a specialization in pharmacoengineering and regenerative medicine. She completed projects studying microparticle formulations for vaccine adjuvants and autoimmune diseases with a focus on how microparticle properties influence immune responses under Dr. Kristy Ainslie in the UNC Eshelman School of Pharmacy. She also worked at Epigenos Biosciences, Fujifilm Biotechnologies, and Beam Therapeutics.
+
+Outside the lab, Sophia likes to hike, bake, and explore new places."
 
 interests:
-- DNA origami
-- Cell signaling
-- Cancer biology
+- DNA technology
+- Immunoengineering
+- Biomaterials
 
 education:
   courses:
-  - course: BSc in Pharmacology
-    institution: University of Toronto
-    year: 2024
-  - course: MHS in Molecular Microbiology and Immunology
-    institution: Johns Hopkins University
-    year: 2025
+  - course: BS in Biomedical Engineering
+    institution: University of North Carolina at Chapel Hill and North Carolina State University
+    year: 2026
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -41,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ziji.guo@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sa.ly@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: ""
 - icon: google-scholar
   icon_pack: ai
-  link: ""
+  link: "https://scholar.google.ca/citations?user=T7wTfrkAAAAJ&hl=en"
 - icon: github
   icon_pack: fab
   link: ""
@@ -66,4 +70,8 @@ user_groups:
 - Researchers
 ---
 
-Ziji (David) Guo is a first-year PhD student in Biomedical Engineering at the University of Toronto. His research focuses on DNA origami. He hold a BSc degree in Pharmacology at the University of Toronto, completed projects under Dr. Roger McIntyre and Dr. Leonardo Salmena. He earned his Master of Health Science degree in Molecular Microbiology and Immunology at Johns Hopkins University, and completed projects under Dr. Alan Scott and Dr. Jennifer Kavran. 
+Sophia is a Direct-Entry Biomedical Engineering PhD student at the University of Toronto. Her research interests are immunoengineering, dna technology, and drug delivery. 
+
+Prior to joining the Chou Lab, she earned her undergraduate degree in Biomedical Engineering at the University of North Carolina at Chapel Hill with a specialization in pharmacoengineering and regenerative medicine. She completed projects studying microparticle formulations for vaccine adjuvants and autoimmune diseases with a focus on how microparticle properties influence immune responses under Dr. Kristy Ainslie in the UNC Eshelman School of Pharmacy. She also worked at Epigenos Biosciences, Fujifilm Biotechnologies, and Beam Therapeutics.
+
+Outside the lab, Sophia likes to hike, bake, and explore new places.
