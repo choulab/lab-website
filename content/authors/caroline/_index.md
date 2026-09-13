@@ -20,16 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+
 interests:
-- DNA technology
-- Immunoengineering
+- Disease modelling
+- Cancer therapeutics
 - Biomaterials
 
 education:
   courses:
-  - course: BS in Biomedical Engineering
-    institution: University of North Carolina at Chapel Hill and North Carolina State University
-    year: 2026
+  - course: HBSc in Life Sciences
+    institution: University of Toronto
+    year: 2025
   
 
 # Social/Academic Networking
@@ -39,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sa.ly@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:caroline.switkowski@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: ""
 - icon: google-scholar
   icon_pack: ai
-  link: "https://scholar.google.ca/citations?user=T7wTfrkAAAAJ&hl=en"
+  link: ""
 - icon: github
   icon_pack: fab
   link: ""
@@ -64,8 +65,8 @@ user_groups:
 - Researchers
 ---
 
-Sophia is a Direct-Entry Biomedical Engineering PhD student at the University of Toronto. Her research interests are immunoengineering, dna technology, and drug delivery. 
+Caroline is a direct-entry PhD student at the Institute of Biomedical Engineering at the University of Toronto, co-supervised by Dr. Leo Chou and Dr. Kim Tsoi, a sarcoma specialist and surgeon-investigator at Mount Sinai Hospital. Her research interests include disease modelling, cancer therapeutics, and biomaterials.
 
-Prior to joining the Chou Lab, she earned her undergraduate degree in Biomedical Engineering at the University of North Carolina at Chapel Hill with a specialization in pharmacoengineering and regenerative medicine. She completed projects studying microparticle formulations for vaccine adjuvants and autoimmune diseases with a focus on how microparticle properties influence immune responses under Dr. Kristy Ainslie in the UNC Eshelman School of Pharmacy. She also worked at Epigenos Biosciences, Fujifilm Biotechnologies, and Beam Therapeutics.
+Caroline holds an HBSc from the University of Toronto, where she studied Health & Disease, Psychology, and Immunology. Prior to beginning her graduate studies, she worked under Dr. John Sled at SickKids, where she investigated cerebral hypoxia in a mouse model of Hypoplastic Left Heart Syndrome. She subsequently completed her undergraduate thesis under Dr. Craig Simmons. Her thesis characterized genomic and transcriptomic changes in Natriuretic Peptide Receptor 2-deficient (Npr2+/-) mice, with a focus on the role of hemodynamics in bicuspid aortic valve-associated aortic dilatation.
 
-Outside the lab, Sophia likes to hike, bake, and explore new places.
+Outside of the lab, Caroline enjoys reading, crocheting, painting, and experimenting with recipes she finds on social media.
