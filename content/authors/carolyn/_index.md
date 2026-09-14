@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shruti Anand
+title: Stuti Joshi
 
 # Username (this should match the folder name)
 authors:
-- shruti
+- stuti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: MASc (2022) <br> **Applications Scientist** <br> PacBio
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 
 interests:
-- Biomaterials
-- Immunoengineering
-- Drug delivery
 
 education:
   courses:
-  - course: BASc in Engineering Science - Biomedical Systems Engineering
+  - course: BSc in Molecular Biology
     institution: University of Toronto
-    year: 2026
-
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -39,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shruti.anand@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:stuti.joshi@mail.utoronto.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: ""
@@ -48,7 +44,7 @@ social:
   link: ""
 - icon: github
   icon_pack: fab
-  link: "https://github.com/anandshruti22"
+  link: ""
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -56,14 +52,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: shruti.anand@mail.utoronto.ca
+email: "stuti.joshi@mail.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Shruti Anand is a first-year PhD student in Biomedical Engineering at the University of Toronto. Her research focuses on DNA origami. She holds a BASc degree in Biomedical Engineering at the University of Toronto. She completed her undergraduate thesis under the supervision of Dr. Leo Chou, developing surface-modified DNA nanostructures to target dendritic cells for cancer vaccine applications. Prior to that, she completed her co-op term at Brigham and Women's Hospital, supervised by Dr. Yuhan Lee and Dr. Jeff Karp. She has also interned at Novo Nordisk. 
+Stuti is an alumnus of the Chou lab. She defended her MASc degree in Dec 2021, and has since moved to California to pursue her dream job in the DNA sequencing industry. Her research interests include molecular biology, cellular signalling, and nanoengineering. 
 
-When she isn't delivering drugs to cells, she likes to go on long walks, read mystery novels, and play badminton.
+Before joining her cohort at the Chou lab, Stuti completed her undergraduate degree at the University of Toronto Mississauga, where she specialized in Molecular Biology and majored in Health Sciences. Her undergraduate thesis investigated the role of myoinhibiting peptides on physiological functions of the kissing bug, *Rhodnius prolixus*.
+
+When Stuti isn't tackling the big questions at the nano level, she can be found practicing henna designs, reading a cliffhanger, or riding her bike.
