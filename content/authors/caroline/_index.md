@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student <br> (co-supervised with Dr. Kim Tsoi)
 
 # Organizations/Affiliations
 organizations:
