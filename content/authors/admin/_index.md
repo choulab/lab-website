@@ -65,6 +65,6 @@ user_groups:
   - Researchers
 ---
 
-Leo Chou is an assistant professor in the Institute of Biomedical Engineering at University of Toronto, and one of the principal investigators at Medicine by Design, a Canada First Research Excellence Fund (CFREF)-supported initiative. His research interests include DNA nanotechnology, molecular engineering, and synthetic biology. His lab is developing artificial, self-assembling molecular devices for biomedical applications, including for biomarker discovery, diagnostics, and therapeutics.
+Leo Chou is Associate Professor in the Institute of Biomedical Engineering at University of Toronto, and one of the principal investigators at Medicine by Design, a Canada First Research Excellence Fund (CFREF)-supported initiative. His research interests include DNA nanotechnology, molecular engineering, and synthetic biology. His lab is developing artificial, self-assembling molecular devices for biomedical applications, including for biomarker discovery, diagnostics, and therapeutics.
 
 Before joining the BME faculty in 2019, Leo was a postdoctoral fellow at the Dana-Farber Cancer Institute in Boston, where he worked on self-assembling nanotechnology design with the support of a Banting Postdoctoral Fellowship. He was also an appointed fellow at the Wyss Institute of Biological Engineering at Harvard University and the Department of BCMP at Harvard Medical School. Leo completed both his PhD degree (BME) and undergraduate degree (Engineering Science) at the University of Toronto. 
