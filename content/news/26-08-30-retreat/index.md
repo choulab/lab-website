@@ -5,7 +5,7 @@ tags: ["2026", "socials"]
 profile: false
 ---
 
-This year, we experimented with one day of 'big picture' science, where everyone comes up with ideas for the next 10 years via a chalk talk. We also discussed how lab mysteries — unexpected results — could be converted into projects.
+Fall 2026 Chou lab photos. What a beautiful group of people!
 
 <!--more-->
 
